@@ -18,6 +18,8 @@ concurrency:
 jobs:
   update-and-group:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # нужен для push коммитов ботом
 
     steps:
       - uses: actions/checkout@v4
