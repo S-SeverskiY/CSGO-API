@@ -454,7 +454,8 @@ export const loadCratesByCollections = () => {
             acc[collection] = filterUniqueByAttribute(crates, "id");
 
             return acc;
-        }
+        },
+        {}
     );
 };
 
@@ -847,12 +848,16 @@ const getItemFromKey = key => {
 };
 
 export const getManifestId = async () => {
+    const headers = process.env.GITHUB_TOKEN
+        ? { Authorization: `token ${process.env.GITHUB_TOKEN}` }
+        : {};
+
     return axios
         .get(
-            "https://api.github.com/repos/ByMykel/counter-strike-file-tracker/contents/static/manifestId.txt"
+            "https://api.github.com/repos/ByMykel/counter-strike-file-tracker/contents/static/manifestId.txt",
+            { headers }
         )
         .then(response => {
-            // Decode base64 content and trim whitespace
             return Buffer.from(response.data.content, "base64").toString("utf-8").trim();
         })
         .catch(error => {

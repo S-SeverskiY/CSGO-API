@@ -22,10 +22,10 @@ jobs:
       contents: write  # нужен для push коммитов ботом
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 24
       
@@ -36,10 +36,12 @@ jobs:
       - name: Update data
         id: update-data
         run: npm run ${{ github.event.inputs.force == 'true' && 'update-data-force' || 'update-data' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Read manifestIdUpdate.txt
         id: manifestIdUpdate
-        uses: juliangruber/read-file-action@v1
+        uses: juliangruber/read-file-action@v1.1.8
         with:
           path: ./manifestIdUpdate.txt
       
@@ -47,15 +49,17 @@ jobs:
       - name: Group data
         id: group-data
         run: npm run ${{ github.event.inputs.force == 'true' && 'group-data-force' || 'group-data' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Read manifestIdGroup.txt
         id: manifestIdGroup
-        uses: juliangruber/read-file-action@v1
+        uses: juliangruber/read-file-action@v1.1.8
         with:
           path: ./manifestIdGroup.txt
       
       # Commit all changes
       - name: Commit & push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "[bot::update-group] manifest ${{ steps.manifestIdUpdate.outputs.content }}"
