@@ -3184,5 +3184,221 @@
    "name": "tigercub_01",
    "image_inventory": "econ/music_kits/tigercub_01"
   }
+ },
+ {
+  "id": "music_kit-98",
+  "name": "Musikkit | ALRT, DOPAMINE HIT",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>ALRTs mitreißender Bass-House-Track sorgt für den ultimativen „DOPAMINE HIT“ und liefert den nötigen Schwung, um in den entscheidenden Momenten zur Höchstleistung aufzulaufen.",
+  "def_index": "98",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALRT, DOPAMINE HIT",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF",
+  "original": {
+   "name": "alrt_01",
+   "image_inventory": "econ/music_kits/alrt_01"
+  }
+ },
+ {
+  "id": "music_kit-98_st",
+  "name": "StatTrak™-Musikkit | ALRT, DOPAMINE HIT",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>ALRTs mitreißender Bass-House-Track sorgt für den ultimativen „DOPAMINE HIT“ und liefert den nötigen Schwung, um in den entscheidenden Momenten zur Höchstleistung aufzulaufen.",
+  "def_index": "98",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF",
+  "original": {
+   "name": "alrt_01",
+   "image_inventory": "econ/music_kits/alrt_01"
+  }
+ },
+ {
+  "id": "music_kit-99",
+  "name": "Musikkit | Altare, Change My Mind",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Altares euphorische Wave-Hymne „Change My Mind“ ist perfekt für die höchsten Höhen, wenn man das Gefühl hat, dass einem nichts und niemand im Weg stehen kann.",
+  "def_index": "99",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Altare, Change My Mind",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E",
+  "original": {
+   "name": "altare_01",
+   "image_inventory": "econ/music_kits/altare_01"
+  }
+ },
+ {
+  "id": "music_kit-99_st",
+  "name": "StatTrak™-Musikkit | Altare, Change My Mind",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Altares euphorische Wave-Hymne „Change My Mind“ ist perfekt für die höchsten Höhen, wenn man das Gefühl hat, dass einem nichts und niemand im Weg stehen kann.",
+  "def_index": "99",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Altare, Change My Mind",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E",
+  "original": {
+   "name": "altare_01",
+   "image_inventory": "econ/music_kits/altare_01"
+  }
+ },
+ {
+  "id": "music_kit-100",
+  "name": "Musikkit | borne, Give It To Me",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>bornes kraftvoller Bass-Kracher „Give It To Me“ bringt einen dazu, es seinen Gegnern in Counter-Strike und anderswo richtig zu zeigen.",
+  "def_index": "100",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | borne, Give It To Me",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g",
+  "original": {
+   "name": "borne_01",
+   "image_inventory": "econ/music_kits/borne_01"
+  }
+ },
+ {
+  "id": "music_kit-100_st",
+  "name": "StatTrak™-Musikkit | borne, Give It To Me",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>bornes kraftvoller Bass-Kracher „Give It To Me“ bringt einen dazu, es seinen Gegnern in Counter-Strike und anderswo richtig zu zeigen.",
+  "def_index": "100",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | borne, Give It To Me",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g",
+  "original": {
+   "name": "borne_01",
+   "image_inventory": "econ/music_kits/borne_01"
+  }
+ },
+ {
+  "id": "music_kit-101",
+  "name": "Musikkit | Pirapus, EVERYNITE",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Pirapus’ energiegeladene Drum-and-Bass-Hymne „EVERYNITE“ vermittelt das Gefühl, kurz vor dem Durchbruch zu stehen. Wie der Name schon vermuten lässt, sorgt dieser Track dafür, dass man jede Nacht voll und ganz bei der Sache ist.",
+  "def_index": "101",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pirapus, EVERYNITE",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0",
+  "original": {
+   "name": "pirapus_01",
+   "image_inventory": "econ/music_kits/pirapus_01"
+  }
+ },
+ {
+  "id": "music_kit-101_st",
+  "name": "StatTrak™-Musikkit | Pirapus, EVERYNITE",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Pirapus’ energiegeladene Drum-and-Bass-Hymne „EVERYNITE“ vermittelt das Gefühl, kurz vor dem Durchbruch zu stehen. Wie der Name schon vermuten lässt, sorgt dieser Track dafür, dass man jede Nacht voll und ganz bei der Sache ist.",
+  "def_index": "101",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0",
+  "original": {
+   "name": "pirapus_01",
+   "image_inventory": "econ/music_kits/pirapus_01"
+  }
+ },
+ {
+  "id": "music_kit-102",
+  "name": "Musikkit | Repiet & Julia Kleijn, On And On",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Mit dem mitreißenden Track „On And On“ von Repiet und Julia Kleijn ist man für jede Herausforderung gewappnet. Ob in guten oder in schlechten Zeiten – dieser Track gibt den richtigen Rhythmus vor, um jedes Hindernis zu überwinden.",
+  "def_index": "102",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Repiet & Julia Kleijn, On And On",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA",
+  "original": {
+   "name": "repiet_01",
+   "image_inventory": "econ/music_kits/repiet_01"
+  }
+ },
+ {
+  "id": "music_kit-102_st",
+  "name": "StatTrak™-Musikkit | Repiet & Julia Kleijn, On And On",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Mit dem mitreißenden Track „On And On“ von Repiet und Julia Kleijn ist man für jede Herausforderung gewappnet. Ob in guten oder in schlechten Zeiten – dieser Track gibt den richtigen Rhythmus vor, um jedes Hindernis zu überwinden.",
+  "def_index": "102",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA",
+  "original": {
+   "name": "repiet_01",
+   "image_inventory": "econ/music_kits/repiet_01"
+  }
+ },
+ {
+  "id": "music_kit-103",
+  "name": "Musikkit | ShockOne, Voices",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Lasst euch von ShockOnes energiegeladener Drum-and-Bass-Platte „Voices“ mitreißen. Dieses Musikkit ist wie geschaffen für entscheidende Momente und bietet kraftvolle Basslines, die euch zu vielen Auszeichnungen zum besten Spieler verhelfen wird.",
+  "def_index": "103",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ShockOne, Voices",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg",
+  "original": {
+   "name": "shockone_01",
+   "image_inventory": "econ/music_kits/shockone_01"
+  }
+ },
+ {
+  "id": "music_kit-103_st",
+  "name": "StatTrak™-Musikkit | ShockOne, Voices",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Lasst euch von ShockOnes energiegeladener Drum-and-Bass-Platte „Voices“ mitreißen. Dieses Musikkit ist wie geschaffen für entscheidende Momente und bietet kraftvolle Basslines, die euch zu vielen Auszeichnungen zum besten Spieler verhelfen wird.",
+  "def_index": "103",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ShockOne, Voices",
+  "exclusive": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg",
+  "original": {
+   "name": "shockone_01",
+   "image_inventory": "econ/music_kits/shockone_01"
+  }
  }
 ]
