@@ -15852,8 +15852,196 @@
   "id": "collection-set-arabesque",
   "name": "Kollektion „Arabeske Kunst“",
   "crates": [],
-  "contains": [],
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_arabesque_png.png",
+  "contains": [
+   {
+    "id": "skin-597120dcc9dc",
+    "name": "PP-Bizon | Verräter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1472",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png"
+   },
+   {
+    "id": "skin-ba6bf5572bb9",
+    "name": "MP9 | Dünen-Natter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1473",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png"
+   },
+   {
+    "id": "skin-4ab74eebe0c0",
+    "name": "Nova | Morgensonne",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1474",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png"
+   },
+   {
+    "id": "skin-c624b6694da0",
+    "name": "SCAR-20 | Wüstenwindschrift",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1453",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png"
+   },
+   {
+    "id": "skin-4390d95df013",
+    "name": "Five-SeveN | Wüstensiegel",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1457",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png"
+   },
+   {
+    "id": "skin-5fdbc79e9391",
+    "name": "Akimbo-Berettas | Mystische Verbindung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1459",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png"
+   },
+   {
+    "id": "skin-4f033a7badb4",
+    "name": "Abgesägte Schrotflinte | Monddrache",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1475",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png"
+   },
+   {
+    "id": "skin-a7894cfa1ec1",
+    "name": "FAMAS | Schlangenlied",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1461",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png"
+   },
+   {
+    "id": "skin-d23df8a148c2",
+    "name": "Tec-9 | Sultan",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1462",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png"
+   },
+   {
+    "id": "skin-814d19013b18",
+    "name": "MAC-10 | Arabeskes Mosaik",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1454",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png"
+   },
+   {
+    "id": "skin-8c086e8406f0",
+    "name": "AUG | Lapislazuli",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1464",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png"
+   },
+   {
+    "id": "skin-17a447e64559",
+    "name": "Glock-18 | Flaschengeist-Gefäß",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1460",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png"
+   },
+   {
+    "id": "skin-9f80f7a57fce",
+    "name": "P250 | Lotosprägung",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1455",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png"
+   },
+   {
+    "id": "skin-febc497c7cf2",
+    "name": "Desert Eagle | Exotisches Rätsel",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1458",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png"
+   },
+   {
+    "id": "skin-ba6fb75e8368",
+    "name": "M4A4 | Falak",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1463",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png"
+   },
+   {
+    "id": "skin-6e5532fe3b91",
+    "name": "AWP | Flamme des Herrschers",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1465",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png"
+   },
+   {
+    "id": "skin-651edfe9a99a",
+    "name": "AK-47 | Konsequenzen des Dschinn",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1466",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_arabesque.svg",
   "original": {
    "name": "#CSGO_set_arabesque",
    "image_inventory": "econ/set_icons/set_arabesque"
@@ -16843,8 +17031,196 @@
   "id": "collection-set-spy-tech",
   "name": "Kollektion „Spionage und Technologie“",
   "crates": [],
-  "contains": [],
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_spy_tech_png.png",
+  "contains": [
+   {
+    "id": "skin-ffce7ece69a0",
+    "name": "MP7 | Basis-2",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1468",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png"
+   },
+   {
+    "id": "skin-cae293d76ade",
+    "name": "Tec-9 | Perimeter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1447",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png"
+   },
+   {
+    "id": "skin-9cfeaf972aa7",
+    "name": "MAC-10 | Videokamera",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1448",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png"
+   },
+   {
+    "id": "skin-57bff25c9e87",
+    "name": "SCAR-20 | Arktische Tarnung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1470",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png"
+   },
+   {
+    "id": "skin-6a9f594a5d3c",
+    "name": "XM1014 | Geheimgefängnis",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1471",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png"
+   },
+   {
+    "id": "skin-3e29c2ccb9d9",
+    "name": "FAMAS | Korps-Verteidigung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "paint_index": "1477",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png"
+   },
+   {
+    "id": "skin-68f3c97df6fb",
+    "name": "R8-Revolver | Monarch",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1445",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png"
+   },
+   {
+    "id": "skin-898c79236bd1",
+    "name": "AUG | Signal-Scanner",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1452",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png"
+   },
+   {
+    "id": "skin-d79f18bbf38c",
+    "name": "MP9 | Spionageprototyp",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1469",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png"
+   },
+   {
+    "id": "skin-9a04113a9d7b",
+    "name": "M4A4 | Schattenagent",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "paint_index": "1446",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png"
+   },
+   {
+    "id": "skin-0b4117bef059",
+    "name": "CZ75-Auto | Hydraulik",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1443",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png"
+   },
+   {
+    "id": "skin-a559f10a1997",
+    "name": "Nova | Smart Gun",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1442",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png"
+   },
+   {
+    "id": "skin-fb4c997d4376",
+    "name": "AWP | Blackbox",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "paint_index": "1467",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png"
+   },
+   {
+    "id": "skin-ef8a4654c567",
+    "name": "USP-S | Spiral-Glitch",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1451",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png"
+   },
+   {
+    "id": "skin-1372e31792c1",
+    "name": "M4A1-S | Fataler Fehler",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "paint_index": "1476",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png"
+   },
+   {
+    "id": "skin-6370d1af59f7",
+    "name": "AK-47 | AUTOEXEC",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1449",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png"
+   },
+   {
+    "id": "skin-59c755307d22",
+    "name": "Glock-18 | Protokoll Geist",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1450",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_spy_tech.svg",
   "original": {
    "name": "#CSGO_set_spy_tech",
    "image_inventory": "econ/set_icons/set_spy_tech"
