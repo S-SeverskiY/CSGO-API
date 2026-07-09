@@ -15849,6 +15849,17 @@
   }
  },
  {
+  "id": "collection-set-arabesque",
+  "name": "Kollektion „Arabeske Kunst“",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_arabesque_png.png",
+  "original": {
+   "name": "#CSGO_set_arabesque",
+   "image_inventory": "econ/set_icons/set_arabesque"
+  }
+ },
+ {
   "id": "collection-set-community-36",
   "name": "Kollektion „Genesis“",
   "crates": [
@@ -16826,6 +16837,17 @@
   "original": {
    "name": "#CSGO_set_realism_camo",
    "image_inventory": "econ/set_icons/set_realism_camo"
+  }
+ },
+ {
+  "id": "collection-set-spy-tech",
+  "name": "Kollektion „Spionage und Technologie“",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_spy_tech_png.png",
+  "original": {
+   "name": "#CSGO_set_spy_tech",
+   "image_inventory": "econ/set_icons/set_spy_tech"
   }
  },
  {
@@ -18508,6 +18530,298 @@
   }
  },
  {
+  "id": "collection-set-auto-racing",
+  "name": "Aufkleberkollektion „Autorennen“",
+  "crates": [],
+  "contains": [
+   {
+    "id": "sticker-10343",
+    "name": "Boreale Böe",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_png.png"
+   },
+   {
+    "id": "sticker-10350",
+    "name": "Safarischimmer",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_png.png"
+   },
+   {
+    "id": "sticker-10341",
+    "name": "Frische Brise",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_png.png"
+   },
+   {
+    "id": "sticker-11194",
+    "name": "Wir bitten um Geduld",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_png.png"
+   },
+   {
+    "id": "sticker-10344",
+    "name": "Bunny-Hop-Hydraulik",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_png.png"
+   },
+   {
+    "id": "sticker-10349",
+    "name": "Runboost-Höherlegungskit",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_png.png"
+   },
+   {
+    "id": "sticker-10353",
+    "name": "Rennreifen",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_png.png"
+   },
+   {
+    "id": "sticker-10348",
+    "name": "Röntgen-Rennclub",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_png.png"
+   },
+   {
+    "id": "sticker-10346",
+    "name": "Entschärfungswettrennen",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_png.png"
+   },
+   {
+    "id": "sticker-10347",
+    "name": "Killometer",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_png.png"
+   },
+   {
+    "id": "sticker-10345",
+    "name": "Karierter Kukri",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_png.png"
+   },
+   {
+    "id": "sticker-10342",
+    "name": "Bombe an Bord",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_png.png"
+   },
+   {
+    "id": "sticker-10351",
+    "name": "Sanddünen-Baja-Tour",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_png.png"
+   },
+   {
+    "id": "sticker-10354",
+    "name": "Kegelzone (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_png.png"
+   },
+   {
+    "id": "sticker-10356",
+    "name": "Erste Runde (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_png.png"
+   },
+   {
+    "id": "sticker-10357",
+    "name": "Neo-Pittstopp (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_png.png"
+   },
+   {
+    "id": "sticker-10358",
+    "name": "Neo-Vorstoß (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_png.png"
+   },
+   {
+    "id": "sticker-10359",
+    "name": "Sicherheit geht vor (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_png.png"
+   },
+   {
+    "id": "sticker-10355",
+    "name": "Motorstart (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_png.png"
+   },
+   {
+    "id": "sticker-10360",
+    "name": "Sparmodus (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_png.png"
+   },
+   {
+    "id": "sticker-10361",
+    "name": "Glücksbringer (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_png.png"
+   },
+   {
+    "id": "sticker-11195",
+    "name": "Turbo im Herzen (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_png.png"
+   },
+   {
+    "id": "sticker-10363",
+    "name": "Turbomodus (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_png.png"
+   },
+   {
+    "id": "sticker-10364",
+    "name": "Vorsicht Scharfschütze (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_png.png"
+   },
+   {
+    "id": "sticker-10365",
+    "name": "Ausgebrannt (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_png.png"
+   },
+   {
+    "id": "sticker-10368",
+    "name": "NITRO! (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_png.png"
+   },
+   {
+    "id": "sticker-10366",
+    "name": "Digitales Armaturenbrett (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_png.png"
+   },
+   {
+    "id": "sticker-10367",
+    "name": "Handgerät (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png",
+  "original": {
+   "name": "#CSGO_set_auto_racing",
+   "image_inventory": "econ/set_icons/set_auto_racing"
+  }
+ },
+ {
   "id": "collection-set-community-2025",
   "name": "Aufkleberkollektion „Community 2025“",
   "crates": [],
@@ -18807,6 +19121,288 @@
   "original": {
    "name": "#CSGO_set_community_2025",
    "image_inventory": "econ/set_icons/set_community_2025"
+  }
+ },
+ {
+  "id": "collection-set-fruits-veggies",
+  "name": "Aufkleberkollektion „Obst und Gemüse“",
+  "crates": [],
+  "contains": [
+   {
+    "id": "sticker-10314",
+    "name": "B'nana Strike",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_png.png"
+   },
+   {
+    "id": "sticker-10319",
+    "name": "Heimisches Gemüse",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_png.png"
+   },
+   {
+    "id": "sticker-10315",
+    "name": "Agent Kurkensalat",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_png.png"
+   },
+   {
+    "id": "sticker-10316",
+    "name": "Obstkisten-Logo",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_png.png"
+   },
+   {
+    "id": "sticker-10317",
+    "name": "Heulsuse",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_png.png"
+   },
+   {
+    "id": "sticker-10318",
+    "name": "Frisch geschnitten",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_png.png"
+   },
+   {
+    "id": "sticker-10320",
+    "name": "Störenfried",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_png.png"
+   },
+   {
+    "id": "sticker-10321",
+    "name": "Zitrone",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_png.png"
+   },
+   {
+    "id": "sticker-10322",
+    "name": "Saure Gurrke",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_png.png"
+   },
+   {
+    "id": "sticker-10323",
+    "name": "Scharfer Geruch",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_png.png"
+   },
+   {
+    "id": "sticker-10324",
+    "name": "Rettich K",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_png.png"
+   },
+   {
+    "id": "sticker-10325",
+    "name": "Kratzen und Schnuppern",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "Hohe Qualität",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_png.png"
+   },
+   {
+    "id": "sticker-10326",
+    "name": "Holunderbeeren (Glitzer)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_png.png"
+   },
+   {
+    "id": "sticker-10327",
+    "name": "A wie Apfel (Glitzer)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_png.png"
+   },
+   {
+    "id": "sticker-10328",
+    "name": "Trinkpäckchen (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_png.png"
+   },
+   {
+    "id": "sticker-10329",
+    "name": "Messer-Ninja (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_png.png"
+   },
+   {
+    "id": "sticker-10330",
+    "name": "Von der Rebe (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_png.png"
+   },
+   {
+    "id": "sticker-10331",
+    "name": "Scharfe Schote (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_png.png"
+   },
+   {
+    "id": "sticker-10332",
+    "name": "Qualitätskontrolle (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_png.png"
+   },
+   {
+    "id": "sticker-10333",
+    "name": "Ultrafruchtig (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "Bemerkenswert",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_png.png"
+   },
+   {
+    "id": "sticker-10334",
+    "name": "Völlig B-A-N-A-N-E (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_png.png"
+   },
+   {
+    "id": "sticker-10335",
+    "name": "Bananenkunst (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_png.png"
+   },
+   {
+    "id": "sticker-10336",
+    "name": "Drachenfrucht (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_png.png"
+   },
+   {
+    "id": "sticker-10337",
+    "name": "Früher Vogel (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_png.png"
+   },
+   {
+    "id": "sticker-10338",
+    "name": "Fruchtfliege (Glanz)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "Exotisch",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_png.png"
+   },
+   {
+    "id": "sticker-10339",
+    "name": "Ananas auf Pizza (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_png.png"
+   },
+   {
+    "id": "sticker-10340",
+    "name": "Schotengewehr (Lentikular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "Außerordentlich",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png",
+  "original": {
+   "name": "#CSGO_set_fruits_veggies",
+   "image_inventory": "econ/set_icons/set_fruits_veggies"
   }
  },
  {

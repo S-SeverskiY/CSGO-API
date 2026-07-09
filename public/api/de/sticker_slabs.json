@@ -390949,6 +390949,1437 @@
   }
  },
  {
+  "id": "sticker_slab-10314",
+  "name": "Aufkleberhülle | B'nana Strike",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10314",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B'nana Strike",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37_png.png",
+  "original": {
+   "name": "paper_nana_strike",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10315",
+  "name": "Aufkleberhülle | Agent Kurkensalat",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10315",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Agent Kucumber",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37_png.png",
+  "original": {
+   "name": "paper_agent_kucumber",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10316",
+  "name": "Aufkleberhülle | Obstkisten-Logo",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10316",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Box Logo",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_1355_37_png.png",
+  "original": {
+   "name": "paper_box_logo",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_box_logo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10317",
+  "name": "Aufkleberhülle | Heulsuse",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10317",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cry Baby",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37_png.png",
+  "original": {
+   "name": "paper_dont_cry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10318",
+  "name": "Aufkleberhülle | Frisch geschnitten",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10318",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fresh Cut",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37_png.png",
+  "original": {
+   "name": "paper_fresh_cut",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10319",
+  "name": "Aufkleberhülle | Heimisches Gemüse",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10319",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Source",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37_png.png",
+  "original": {
+   "name": "paper_from_the_source",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10320",
+  "name": "Aufkleberhülle | Störenfried",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10320",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Heckler",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_1355_37_png.png",
+  "original": {
+   "name": "paper_heckler",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_heckler_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10321",
+  "name": "Aufkleberhülle | Zitrone",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10321",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lemin",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_1355_37_png.png",
+  "original": {
+   "name": "paper_lemin",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_lemin_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10322",
+  "name": "Aufkleberhülle | Saure Gurrke",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10322",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Peekle",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_1355_37_png.png",
+  "original": {
+   "name": "paper_peekle",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_peekle_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10323",
+  "name": "Aufkleberhülle | Scharfer Geruch",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10323",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pungent Comms",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37_png.png",
+  "original": {
+   "name": "paper_pungent_comms",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10324",
+  "name": "Aufkleberhülle | Rettich K",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10324",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radish K",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_1355_37_png.png",
+  "original": {
+   "name": "paper_radish_k",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_radish_k_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10325",
+  "name": "Aufkleberhülle | Kratzen und Schnuppern",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10325",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Scratch N' Whiff",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37_png.png",
+  "original": {
+   "name": "paper_scratch_n_whiff",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10326",
+  "name": "Aufkleberhülle | Holunderbeeren (Glitzer)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10326",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Aceberry (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37_png.png",
+  "original": {
+   "name": "glitter_aceberry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10327",
+  "name": "Aufkleberhülle | A wie Apfel (Glitzer)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10327",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Apple A Day (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37_png.png",
+  "original": {
+   "name": "glitter_apple_a_day",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10328",
+  "name": "Aufkleberhülle | Trinkpäckchen (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10328",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Juice Box (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_1355_37_png.png",
+  "original": {
+   "name": "holo_juice_box",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_juice_box_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10329",
+  "name": "Aufkleberhülle | Messer-Ninja (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10329",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Knife Streak (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37_png.png",
+  "original": {
+   "name": "holo_knife_streak",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10330",
+  "name": "Aufkleberhülle | Von der Rebe (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10330",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Vine (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37_png.png",
+  "original": {
+   "name": "holo_from_the_vine",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10331",
+  "name": "Aufkleberhülle | Scharfe Schote (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10331",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Hot Pepper (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37_png.png",
+  "original": {
+   "name": "holo_hot_pepper",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10332",
+  "name": "Aufkleberhülle | Qualitätskontrolle (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10332",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Quality Control (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_1355_37_png.png",
+  "original": {
+   "name": "holo_quality_control",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_quality_control_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10333",
+  "name": "Aufkleberhülle | Ultrafruchtig (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10333",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Ultra Fruity (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37_png.png",
+  "original": {
+   "name": "holo_ultra_fruity",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10334",
+  "name": "Aufkleberhülle | Völlig B-A-N-A-N-E (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10334",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B-A-N-A-N-A-S (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_1355_37_png.png",
+  "original": {
+   "name": "foil_banana_face",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_banana_face_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10335",
+  "name": "Aufkleberhülle | Bananenkunst (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10335",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bananart (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_1355_37_png.png",
+  "original": {
+   "name": "foil_modern_art",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_modern_art_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10336",
+  "name": "Aufkleberhülle | Drachenfrucht (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10336",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Dragon Fruit (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37_png.png",
+  "original": {
+   "name": "foil_dragon_fruit",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10337",
+  "name": "Aufkleberhülle | Früher Vogel (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10337",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Early Bird (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_1355_37_png.png",
+  "original": {
+   "name": "foil_early_bird",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_early_bird_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10338",
+  "name": "Aufkleberhülle | Fruchtfliege (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10338",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fruit Fly (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37_png.png",
+  "original": {
+   "name": "foil_fruit_fly",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10339",
+  "name": "Aufkleberhülle | Ananas auf Pizza (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10339",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pineapple On Pizza (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pineapple_pizza",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10340",
+  "name": "Aufkleberhülle | Schotengewehr (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10340",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pepper Gauge (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pepper_gauge",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10341",
+  "name": "Aufkleberhülle | Frische Brise",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10341",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Blaze Breeze",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37_png.png",
+  "original": {
+   "name": "paper_blaze_breeze",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10342",
+  "name": "Aufkleberhülle | Bombe an Bord",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10342",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bomb On Board",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37_png.png",
+  "original": {
+   "name": "paper_bomb_on_board",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10343",
+  "name": "Aufkleberhülle | Boreale Böe",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10343",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Boreal Blast",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_1355_37_png.png",
+  "original": {
+   "name": "paper_boreal_blast",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_boreal_blast_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10344",
+  "name": "Aufkleberhülle | Bunny-Hop-Hydraulik",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10344",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bunnyhop Hydraulics",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37_png.png",
+  "original": {
+   "name": "paper_bhop_hydraulics",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10345",
+  "name": "Aufkleberhülle | Karierter Kukri",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10345",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Checkered Kukri",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_1355_37_png.png",
+  "original": {
+   "name": "paper_racing_flag",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_racing_flag_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10346",
+  "name": "Aufkleberhülle | Entschärfungswettrennen",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10346",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Defusal Sprint",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37_png.png",
+  "original": {
+   "name": "paper_defusal_sprint",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10347",
+  "name": "Aufkleberhülle | Killometer",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10347",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Killometer",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_1355_37_png.png",
+  "original": {
+   "name": "paper_killometer",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_killometer_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10348",
+  "name": "Aufkleberhülle | Röntgen-Rennclub",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10348",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Roentgen Raceclub",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37_png.png",
+  "original": {
+   "name": "paper_roentgen_raceclub",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10349",
+  "name": "Aufkleberhülle | Runboost-Höherlegungskit",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10349",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Run Boost Lift Kits",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_1355_37_png.png",
+  "original": {
+   "name": "paper_run_boost",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_run_boost_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10350",
+  "name": "Aufkleberhülle | Safarischimmer",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10350",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safari Shine",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_1355_37_png.png",
+  "original": {
+   "name": "paper_safari_shine",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_safari_shine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10351",
+  "name": "Aufkleberhülle | Sanddünen-Baja-Tour",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10351",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sand Dune Baja Tour",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37_png.png",
+  "original": {
+   "name": "paper_sand_dune_baja_tour",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10353",
+  "name": "Aufkleberhülle | Rennreifen",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10353",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | W Performance Tires",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_1355_37_png.png",
+  "original": {
+   "name": "paper_w_tires",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_w_tires_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10354",
+  "name": "Aufkleberhülle | Kegelzone (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10354",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cone Zone (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_1355_37_png.png",
+  "original": {
+   "name": "holo_cone_zone",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_cone_zone_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10355",
+  "name": "Aufkleberhülle | Motorstart (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10355",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Engine Start (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_1355_37_png.png",
+  "original": {
+   "name": "holo_engine_start",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_engine_start_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10356",
+  "name": "Aufkleberhülle | Erste Runde (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10356",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | First Lap (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_1355_37_png.png",
+  "original": {
+   "name": "holo_first_lap",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_first_lap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10357",
+  "name": "Aufkleberhülle | Neo-Pittstopp (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10357",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Hold (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_hold",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_hold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10358",
+  "name": "Aufkleberhülle | Neo-Vorstoß (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10358",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Rush (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_rush",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_rush_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10359",
+  "name": "Aufkleberhülle | Sicherheit geht vor (Holo)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10359",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safety First (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_1355_37_png.png",
+  "original": {
+   "name": "holo_safety_first",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_safety_first_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10360",
+  "name": "Aufkleberhülle | Sparmodus (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10360",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Eco Mode (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_1355_37_png.png",
+  "original": {
+   "name": "foil_eco_mode",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_eco_mode_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10361",
+  "name": "Aufkleberhülle | Glücksbringer (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10361",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lucky Charms (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_1355_37_png.png",
+  "original": {
+   "name": "foil_lucky_charms",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_lucky_charms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10363",
+  "name": "Aufkleberhülle | Turbomodus (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10363",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Turbo Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_turbo_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_turbo_peek_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10364",
+  "name": "Aufkleberhülle | Vorsicht Scharfschütze (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10364",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sniper Ahead (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_1355_37_png.png",
+  "original": {
+   "name": "foil_watch_sniper",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_watch_sniper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10365",
+  "name": "Aufkleberhülle | Ausgebrannt (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10365",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Burnout (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_1355_37_png.png",
+  "original": {
+   "name": "lenticular_burnout",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_burnout_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10366",
+  "name": "Aufkleberhülle | Digitales Armaturenbrett (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10366",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Digital Dashboard (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37_png.png",
+  "original": {
+   "name": "lenticular_digital_dashboard",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10367",
+  "name": "Aufkleberhülle | Handgerät (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10367",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Handheld (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_1355_37_png.png",
+  "original": {
+   "name": "lenticular_handheld",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_handheld_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10368",
+  "name": "Aufkleberhülle | NITRO! (Lentikular)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "10368",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | NITRO! (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_1355_37_png.png",
+  "original": {
+   "name": "lenticular_nitro",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_nitro_1355_37"
+  }
+ },
+ {
   "id": "sticker_slab-10369",
   "name": "Aufkleberhülle | Vitality | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
@@ -426990,7 +428421,7 @@
  },
  {
   "id": "sticker_slab-11174",
-  "name": "Aufkleberhülle | NiKo (Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | NiKo (Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11174",
   "rarity": {
@@ -427038,7 +428469,7 @@
  },
  {
   "id": "sticker_slab-11175",
-  "name": "Aufkleberhülle | NiKo (Foil, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | NiKo (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11175",
   "rarity": {
@@ -427086,7 +428517,7 @@
  },
  {
   "id": "sticker_slab-11176",
-  "name": "Aufkleberhülle | NiKo (Holo, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | NiKo (Holo, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11176",
   "rarity": {
@@ -427134,7 +428565,7 @@
  },
  {
   "id": "sticker_slab-11177",
-  "name": "Aufkleberhülle | NiKo (Gold, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | NiKo (Gold, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11177",
   "rarity": {
@@ -427182,7 +428613,7 @@
  },
  {
   "id": "sticker_slab-11178",
-  "name": "Aufkleberhülle | kyxsan (Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyxsan (Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11178",
   "rarity": {
@@ -427230,7 +428661,7 @@
  },
  {
   "id": "sticker_slab-11179",
-  "name": "Aufkleberhülle | kyxsan (Foil, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyxsan (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11179",
   "rarity": {
@@ -427278,7 +428709,7 @@
  },
  {
   "id": "sticker_slab-11180",
-  "name": "Aufkleberhülle | kyxsan (Holo, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyxsan (Holo, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11180",
   "rarity": {
@@ -427326,7 +428757,7 @@
  },
  {
   "id": "sticker_slab-11181",
-  "name": "Aufkleberhülle | kyxsan (Gold, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyxsan (Gold, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11181",
   "rarity": {
@@ -427374,7 +428805,7 @@
  },
  {
   "id": "sticker_slab-11182",
-  "name": "Aufkleberhülle | m0NESY (Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | m0NESY (Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11182",
   "rarity": {
@@ -427422,7 +428853,7 @@
  },
  {
   "id": "sticker_slab-11183",
-  "name": "Aufkleberhülle | m0NESY (Foil, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | m0NESY (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11183",
   "rarity": {
@@ -427470,7 +428901,7 @@
  },
  {
   "id": "sticker_slab-11184",
-  "name": "Aufkleberhülle | m0NESY (Holo, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | m0NESY (Holo, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11184",
   "rarity": {
@@ -427518,7 +428949,7 @@
  },
  {
   "id": "sticker_slab-11185",
-  "name": "Aufkleberhülle | m0NESY (Gold, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | m0NESY (Gold, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11185",
   "rarity": {
@@ -427566,7 +428997,7 @@
  },
  {
   "id": "sticker_slab-11186",
-  "name": "Aufkleberhülle | TeSeS (Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | TeSeS (Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11186",
   "rarity": {
@@ -427614,7 +429045,7 @@
  },
  {
   "id": "sticker_slab-11187",
-  "name": "Aufkleberhülle | TeSeS (Foil, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | TeSeS (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11187",
   "rarity": {
@@ -427662,7 +429093,7 @@
  },
  {
   "id": "sticker_slab-11188",
-  "name": "Aufkleberhülle | TeSeS (Holo, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | TeSeS (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11188",
   "rarity": {
@@ -427710,7 +429141,7 @@
  },
  {
   "id": "sticker_slab-11189",
-  "name": "Aufkleberhülle | TeSeS (Gold, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | TeSeS (Gold, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11189",
   "rarity": {
@@ -427758,7 +429189,7 @@
  },
  {
   "id": "sticker_slab-11190",
-  "name": "Aufkleberhülle | kyousuke (Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyousuke (Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11190",
   "rarity": {
@@ -427806,7 +429237,7 @@
  },
  {
   "id": "sticker_slab-11191",
-  "name": "Aufkleberhülle | kyousuke (Foil, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyousuke (Glanz, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11191",
   "rarity": {
@@ -427854,7 +429285,7 @@
  },
  {
   "id": "sticker_slab-11192",
-  "name": "Aufkleberhülle | kyousuke (Holo, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyousuke (Holo, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11192",
   "rarity": {
@@ -427902,7 +429333,7 @@
  },
  {
   "id": "sticker_slab-11193",
-  "name": "Aufkleberhülle | kyousuke (Gold, Champion) | Cologne 2026",
+  "name": "Aufkleberhülle | kyousuke (Gold, Meister) | Köln 2026",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11193",
   "rarity": {
@@ -427949,8 +429380,62 @@
   }
  },
  {
+  "id": "sticker_slab-11194",
+  "name": "Aufkleberhülle | Wir bitten um Geduld",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "11194",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Please Be Patient",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_1355_37_png.png",
+  "original": {
+   "name": "paper_be_patient",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_be_patient_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11195",
+  "name": "Aufkleberhülle | Turbo im Herzen (Glanz)",
+  "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
+  "def_index": "11195",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Born To Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_born_to_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_born_to_peek_1355_37"
+  }
+ },
+ {
   "id": "sticker_slab-11196",
-  "name": "Aufkleberhülle | Airhorn",
+  "name": "Aufkleberhülle | Lufthorn",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11196",
   "rarity": {
@@ -427961,7 +429446,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -427977,7 +429462,7 @@
  },
  {
   "id": "sticker_slab-11197",
-  "name": "Aufkleberhülle | Assterisk",
+  "name": "Aufkleberhülle | Arschterisk",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11197",
   "rarity": {
@@ -427988,7 +429473,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428004,7 +429489,7 @@
  },
  {
   "id": "sticker_slab-11198",
-  "name": "Aufkleberhülle | Big Red Rocket",
+  "name": "Aufkleberhülle | Große Rote Rakete",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11198",
   "rarity": {
@@ -428015,7 +429500,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428031,7 +429516,7 @@
  },
  {
   "id": "sticker_slab-11199",
-  "name": "Aufkleberhülle | Boner Snap",
+  "name": "Aufkleberhülle | Knochenbruch",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11199",
   "rarity": {
@@ -428042,7 +429527,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428058,7 +429543,7 @@
  },
  {
   "id": "sticker_slab-11200",
-  "name": "Aufkleberhülle | Censored",
+  "name": "Aufkleberhülle | Zensiert",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11200",
   "rarity": {
@@ -428069,7 +429554,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428085,7 +429570,7 @@
  },
  {
   "id": "sticker_slab-11201",
-  "name": "Aufkleberhülle | Explosives",
+  "name": "Aufkleberhülle | Sprengstoff",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11201",
   "rarity": {
@@ -428096,7 +429581,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428112,7 +429597,7 @@
  },
  {
   "id": "sticker_slab-11202",
-  "name": "Aufkleberhülle | Golf Cart",
+  "name": "Aufkleberhülle | Golfwagen",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11202",
   "rarity": {
@@ -428123,7 +429608,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428139,7 +429624,7 @@
  },
  {
   "id": "sticker_slab-11203",
-  "name": "Aufkleberhülle | Gonna Leave A Mark",
+  "name": "Aufkleberhülle | Das wird Spuren hinterlassen",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11203",
   "rarity": {
@@ -428150,7 +429635,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428166,7 +429651,7 @@
  },
  {
   "id": "sticker_slab-11204",
-  "name": "Aufkleberhülle | Head In Hands",
+  "name": "Aufkleberhülle | Kopf in den Händen",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11204",
   "rarity": {
@@ -428177,7 +429662,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428204,7 +429689,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428231,7 +429716,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428247,7 +429732,7 @@
  },
  {
   "id": "sticker_slab-11207",
-  "name": "Aufkleberhülle | Partyboy",
+  "name": "Aufkleberhülle | Partygänger",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11207",
   "rarity": {
@@ -428258,7 +429743,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428274,7 +429759,7 @@
  },
  {
   "id": "sticker_slab-11208",
-  "name": "Aufkleberhülle | Radiograph",
+  "name": "Aufkleberhülle | Röntgenaufnahme",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11208",
   "rarity": {
@@ -428285,7 +429770,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428301,7 +429786,7 @@
  },
  {
   "id": "sticker_slab-11209",
-  "name": "Aufkleberhülle | Rocket Skates",
+  "name": "Aufkleberhülle | Raketenrollschuhe",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11209",
   "rarity": {
@@ -428312,7 +429797,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428328,7 +429813,7 @@
  },
  {
   "id": "sticker_slab-11210",
-  "name": "Aufkleberhülle | Skull Bunny",
+  "name": "Aufkleberhülle | Totenkopfhäschen",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11210",
   "rarity": {
@@ -428339,7 +429824,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428355,7 +429840,7 @@
  },
  {
   "id": "sticker_slab-11211",
-  "name": "Aufkleberhülle | The Magic Trick",
+  "name": "Aufkleberhülle | Der Zaubertrick",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11211",
   "rarity": {
@@ -428366,7 +429851,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428382,7 +429867,7 @@
  },
  {
   "id": "sticker_slab-11212",
-  "name": "Aufkleberhülle | WARNING",
+  "name": "Aufkleberhülle | WARNUNG",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11212",
   "rarity": {
@@ -428393,7 +429878,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428409,7 +429894,7 @@
  },
  {
   "id": "sticker_slab-11213",
-  "name": "Aufkleberhülle | ZZZAP!",
+  "name": "Aufkleberhülle | ZAPP!",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11213",
   "rarity": {
@@ -428420,7 +429905,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428436,7 +429921,7 @@
  },
  {
   "id": "sticker_slab-11214",
-  "name": "Aufkleberhülle | Airhorn (Glitter)",
+  "name": "Aufkleberhülle | Lufthorn (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11214",
   "rarity": {
@@ -428447,7 +429932,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428463,7 +429948,7 @@
  },
  {
   "id": "sticker_slab-11215",
-  "name": "Aufkleberhülle | Assterisk (Glitter)",
+  "name": "Aufkleberhülle | Arschterisk (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11215",
   "rarity": {
@@ -428474,7 +429959,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428490,7 +429975,7 @@
  },
  {
   "id": "sticker_slab-11216",
-  "name": "Aufkleberhülle | Big Red Rocket (Glitter)",
+  "name": "Aufkleberhülle | Große Rote Rakete (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11216",
   "rarity": {
@@ -428501,7 +429986,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428517,7 +430002,7 @@
  },
  {
   "id": "sticker_slab-11217",
-  "name": "Aufkleberhülle | Head In Hands (Glitter)",
+  "name": "Aufkleberhülle | Kopf in den Händen (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11217",
   "rarity": {
@@ -428528,7 +430013,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428544,7 +430029,7 @@
  },
  {
   "id": "sticker_slab-11218",
-  "name": "Aufkleberhülle | High Five! (Glitter)",
+  "name": "Aufkleberhülle | High Five! (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11218",
   "rarity": {
@@ -428555,7 +430040,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428571,7 +430056,7 @@
  },
  {
   "id": "sticker_slab-11219",
-  "name": "Aufkleberhülle | Skull Bunny (Glitter)",
+  "name": "Aufkleberhülle | Totenkopfhäschen (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11219",
   "rarity": {
@@ -428582,7 +430067,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428598,7 +430083,7 @@
  },
  {
   "id": "sticker_slab-11220",
-  "name": "Aufkleberhülle | The Magic Trick (Glitter)",
+  "name": "Aufkleberhülle | Der Zaubertrick (Glitzer)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11220",
   "rarity": {
@@ -428609,7 +430094,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428625,7 +430110,7 @@
  },
  {
   "id": "sticker_slab-11221",
-  "name": "Aufkleberhülle | Boner Snap (Holo)",
+  "name": "Aufkleberhülle | Knochenbruch (Holo)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11221",
   "rarity": {
@@ -428636,7 +430121,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428663,7 +430148,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428679,7 +430164,7 @@
  },
  {
   "id": "sticker_slab-11223",
-  "name": "Aufkleberhülle | Gonna Leave A Mark (Holo)",
+  "name": "Aufkleberhülle | Das wird Spuren hinterlassen (Holo)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11223",
   "rarity": {
@@ -428690,7 +430175,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428706,7 +430191,7 @@
  },
  {
   "id": "sticker_slab-11224",
-  "name": "Aufkleberhülle | Partyboy (Lenticular)",
+  "name": "Aufkleberhülle | Partygänger (Lentikular)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11224",
   "rarity": {
@@ -428717,7 +430202,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428733,7 +430218,7 @@
  },
  {
   "id": "sticker_slab-11225",
-  "name": "Aufkleberhülle | Radiograph (Holo)",
+  "name": "Aufkleberhülle | Röntgenaufnahme (Holo)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11225",
   "rarity": {
@@ -428744,7 +430229,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428760,7 +430245,7 @@
  },
  {
   "id": "sticker_slab-11226",
-  "name": "Aufkleberhülle | Rocket Skates (Holo)",
+  "name": "Aufkleberhülle | Raketenrollschuhe (Holo)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11226",
   "rarity": {
@@ -428771,7 +430256,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428787,7 +430272,7 @@
  },
  {
   "id": "sticker_slab-11227",
-  "name": "Aufkleberhülle | ZZZAP! (Holo)",
+  "name": "Aufkleberhülle | ZAPP! (Holo)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11227",
   "rarity": {
@@ -428798,7 +430283,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428814,7 +430299,7 @@
  },
  {
   "id": "sticker_slab-11228",
-  "name": "Aufkleberhülle | Assterisk (Foil)",
+  "name": "Aufkleberhülle | Arschterisk (Glanz)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11228",
   "rarity": {
@@ -428825,7 +430310,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428841,7 +430326,7 @@
  },
  {
   "id": "sticker_slab-11229",
-  "name": "Aufkleberhülle | Censored (Foil)",
+  "name": "Aufkleberhülle | Zensiert (Glanz)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11229",
   "rarity": {
@@ -428852,7 +430337,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428868,7 +430353,7 @@
  },
  {
   "id": "sticker_slab-11230",
-  "name": "Aufkleberhülle | Explosives (Foil)",
+  "name": "Aufkleberhülle | Sprengstoff (Glanz)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11230",
   "rarity": {
@@ -428879,7 +430364,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428895,7 +430380,7 @@
  },
  {
   "id": "sticker_slab-11231",
-  "name": "Aufkleberhülle | Radiograph (Foil)",
+  "name": "Aufkleberhülle | Röntgenaufnahme (Glanz)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11231",
   "rarity": {
@@ -428906,7 +430391,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428922,7 +430407,7 @@
  },
  {
   "id": "sticker_slab-11232",
-  "name": "Aufkleberhülle | WARNING (Foil)",
+  "name": "Aufkleberhülle | WARNUNG (Glanz)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11232",
   "rarity": {
@@ -428933,7 +430418,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428949,7 +430434,7 @@
  },
  {
   "id": "sticker_slab-11233",
-  "name": "Aufkleberhülle | Electric Avenue (Lenticular)",
+  "name": "Aufkleberhülle | Electric Avenue (Lentikular)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11233",
   "rarity": {
@@ -428960,7 +430445,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428976,7 +430461,7 @@
  },
  {
   "id": "sticker_slab-11234",
-  "name": "Aufkleberhülle | Poo Cocktail Supreme (Lenticular)",
+  "name": "Aufkleberhülle | Fliegendes Baustellenklo (Lentikular)",
   "description": "Der Aufkleber ist in dieser Aufkleberhülle sicher versiegelt. Wenn Sie die Aufkleberhülle aufbrechen, wird diese entsorgt und der Aufkleber kehrt in Ihr Inventar zurück.<br><br>Dieser Anhänger kann an jede Waffe in Ihrem Besitz angebracht werden. Jeder angebrachte Anhänger kann mit einer Anhängerablösung abgelöst werden. Abgelöste Anhänger kehren in Ihr Inventar zurück.",
   "def_index": "11234",
   "rarity": {
@@ -428987,7 +430472,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],

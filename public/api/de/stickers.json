@@ -390949,6 +390949,1437 @@
   }
  },
  {
+  "id": "sticker-10314",
+  "name": "Aufkleber | B'nana Strike",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10314",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | B'nana Strike",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_png.png",
+  "original": {
+   "name": "paper_nana_strike",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_nana_strike"
+  }
+ },
+ {
+  "id": "sticker-10315",
+  "name": "Aufkleber | Agent Kurkensalat",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10315",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Agent Kucumber",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_png.png",
+  "original": {
+   "name": "paper_agent_kucumber",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_agent_kucumber"
+  }
+ },
+ {
+  "id": "sticker-10316",
+  "name": "Aufkleber | Obstkisten-Logo",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10316",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Box Logo",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_png.png",
+  "original": {
+   "name": "paper_box_logo",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_box_logo"
+  }
+ },
+ {
+  "id": "sticker-10317",
+  "name": "Aufkleber | Heulsuse",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10317",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Cry Baby",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_png.png",
+  "original": {
+   "name": "paper_dont_cry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_dont_cry"
+  }
+ },
+ {
+  "id": "sticker-10318",
+  "name": "Aufkleber | Frisch geschnitten",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10318",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Fresh Cut",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_png.png",
+  "original": {
+   "name": "paper_fresh_cut",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_fresh_cut"
+  }
+ },
+ {
+  "id": "sticker-10319",
+  "name": "Aufkleber | Heimisches Gemüse",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10319",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | From The Source",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_png.png",
+  "original": {
+   "name": "paper_from_the_source",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_from_the_source"
+  }
+ },
+ {
+  "id": "sticker-10320",
+  "name": "Aufkleber | Störenfried",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10320",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Heckler",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_png.png",
+  "original": {
+   "name": "paper_heckler",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_heckler"
+  }
+ },
+ {
+  "id": "sticker-10321",
+  "name": "Aufkleber | Zitrone",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10321",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Lemin",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_png.png",
+  "original": {
+   "name": "paper_lemin",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_lemin"
+  }
+ },
+ {
+  "id": "sticker-10322",
+  "name": "Aufkleber | Saure Gurrke",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10322",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Peekle",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_png.png",
+  "original": {
+   "name": "paper_peekle",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_peekle"
+  }
+ },
+ {
+  "id": "sticker-10323",
+  "name": "Aufkleber | Scharfer Geruch",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10323",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Pungent Comms",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_png.png",
+  "original": {
+   "name": "paper_pungent_comms",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_pungent_comms"
+  }
+ },
+ {
+  "id": "sticker-10324",
+  "name": "Aufkleber | Rettich K",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10324",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Radish K",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_png.png",
+  "original": {
+   "name": "paper_radish_k",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_radish_k"
+  }
+ },
+ {
+  "id": "sticker-10325",
+  "name": "Aufkleber | Kratzen und Schnuppern",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10325",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Scratch N' Whiff",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_png.png",
+  "original": {
+   "name": "paper_scratch_n_whiff",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_scratch_n_whiff"
+  }
+ },
+ {
+  "id": "sticker-10326",
+  "name": "Aufkleber | Holunderbeeren (Glitzer)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10326",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Aceberry (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_png.png",
+  "original": {
+   "name": "glitter_aceberry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_aceberry"
+  }
+ },
+ {
+  "id": "sticker-10327",
+  "name": "Aufkleber | A wie Apfel (Glitzer)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10327",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Apple A Day (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_png.png",
+  "original": {
+   "name": "glitter_apple_a_day",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_apple_a_day"
+  }
+ },
+ {
+  "id": "sticker-10328",
+  "name": "Aufkleber | Trinkpäckchen (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10328",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Juice Box (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_png.png",
+  "original": {
+   "name": "holo_juice_box",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_juice_box"
+  }
+ },
+ {
+  "id": "sticker-10329",
+  "name": "Aufkleber | Messer-Ninja (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10329",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Knife Streak (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_png.png",
+  "original": {
+   "name": "holo_knife_streak",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_knife_streak"
+  }
+ },
+ {
+  "id": "sticker-10330",
+  "name": "Aufkleber | Von der Rebe (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10330",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | From The Vine (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_png.png",
+  "original": {
+   "name": "holo_from_the_vine",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_from_the_vine"
+  }
+ },
+ {
+  "id": "sticker-10331",
+  "name": "Aufkleber | Scharfe Schote (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10331",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Hot Pepper (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_png.png",
+  "original": {
+   "name": "holo_hot_pepper",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_hot_pepper"
+  }
+ },
+ {
+  "id": "sticker-10332",
+  "name": "Aufkleber | Qualitätskontrolle (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10332",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Quality Control (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_png.png",
+  "original": {
+   "name": "holo_quality_control",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_quality_control"
+  }
+ },
+ {
+  "id": "sticker-10333",
+  "name": "Aufkleber | Ultrafruchtig (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10333",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Ultra Fruity (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_png.png",
+  "original": {
+   "name": "holo_ultra_fruity",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_ultra_fruity"
+  }
+ },
+ {
+  "id": "sticker-10334",
+  "name": "Aufkleber | Völlig B-A-N-A-N-E (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10334",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | B-A-N-A-N-A-S (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_png.png",
+  "original": {
+   "name": "foil_banana_face",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_banana_face"
+  }
+ },
+ {
+  "id": "sticker-10335",
+  "name": "Aufkleber | Bananenkunst (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10335",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Bananart (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_png.png",
+  "original": {
+   "name": "foil_modern_art",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_modern_art"
+  }
+ },
+ {
+  "id": "sticker-10336",
+  "name": "Aufkleber | Drachenfrucht (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10336",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Dragon Fruit (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_png.png",
+  "original": {
+   "name": "foil_dragon_fruit",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_dragon_fruit"
+  }
+ },
+ {
+  "id": "sticker-10337",
+  "name": "Aufkleber | Früher Vogel (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10337",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Early Bird (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_png.png",
+  "original": {
+   "name": "foil_early_bird",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_early_bird"
+  }
+ },
+ {
+  "id": "sticker-10338",
+  "name": "Aufkleber | Fruchtfliege (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10338",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Fruit Fly (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_png.png",
+  "original": {
+   "name": "foil_fruit_fly",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_fruit_fly"
+  }
+ },
+ {
+  "id": "sticker-10339",
+  "name": "Aufkleber | Ananas auf Pizza (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10339",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Pineapple On Pizza (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_png.png",
+  "original": {
+   "name": "lenticular_pineapple_pizza",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza"
+  }
+ },
+ {
+  "id": "sticker-10340",
+  "name": "Aufkleber | Schotengewehr (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10340",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Aufkleberkollektion „Obst und Gemüse“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Pepper Gauge (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_png.png",
+  "original": {
+   "name": "lenticular_pepper_gauge",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pepper_gauge"
+  }
+ },
+ {
+  "id": "sticker-10341",
+  "name": "Aufkleber | Frische Brise",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10341",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Blaze Breeze",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_png.png",
+  "original": {
+   "name": "paper_blaze_breeze",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_blaze_breeze"
+  }
+ },
+ {
+  "id": "sticker-10342",
+  "name": "Aufkleber | Bombe an Bord",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10342",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Bomb On Board",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_png.png",
+  "original": {
+   "name": "paper_bomb_on_board",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bomb_on_board"
+  }
+ },
+ {
+  "id": "sticker-10343",
+  "name": "Aufkleber | Boreale Böe",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10343",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Boreal Blast",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_png.png",
+  "original": {
+   "name": "paper_boreal_blast",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_boreal_blast"
+  }
+ },
+ {
+  "id": "sticker-10344",
+  "name": "Aufkleber | Bunny-Hop-Hydraulik",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10344",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Bunnyhop Hydraulics",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_png.png",
+  "original": {
+   "name": "paper_bhop_hydraulics",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bhop_hydraulics"
+  }
+ },
+ {
+  "id": "sticker-10345",
+  "name": "Aufkleber | Karierter Kukri",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10345",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Checkered Kukri",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_png.png",
+  "original": {
+   "name": "paper_racing_flag",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_racing_flag"
+  }
+ },
+ {
+  "id": "sticker-10346",
+  "name": "Aufkleber | Entschärfungswettrennen",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10346",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Defusal Sprint",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_png.png",
+  "original": {
+   "name": "paper_defusal_sprint",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_defusal_sprint"
+  }
+ },
+ {
+  "id": "sticker-10347",
+  "name": "Aufkleber | Killometer",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10347",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Killometer",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_png.png",
+  "original": {
+   "name": "paper_killometer",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_killometer"
+  }
+ },
+ {
+  "id": "sticker-10348",
+  "name": "Aufkleber | Röntgen-Rennclub",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10348",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Roentgen Raceclub",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_png.png",
+  "original": {
+   "name": "paper_roentgen_raceclub",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_roentgen_raceclub"
+  }
+ },
+ {
+  "id": "sticker-10349",
+  "name": "Aufkleber | Runboost-Höherlegungskit",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10349",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Run Boost Lift Kits",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_png.png",
+  "original": {
+   "name": "paper_run_boost",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_run_boost"
+  }
+ },
+ {
+  "id": "sticker-10350",
+  "name": "Aufkleber | Safarischimmer",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10350",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Safari Shine",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_png.png",
+  "original": {
+   "name": "paper_safari_shine",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_safari_shine"
+  }
+ },
+ {
+  "id": "sticker-10351",
+  "name": "Aufkleber | Sanddünen-Baja-Tour",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10351",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Sand Dune Baja Tour",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_png.png",
+  "original": {
+   "name": "paper_sand_dune_baja_tour",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_sand_dune_baja_tour"
+  }
+ },
+ {
+  "id": "sticker-10353",
+  "name": "Aufkleber | Rennreifen",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10353",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | W Performance Tires",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_png.png",
+  "original": {
+   "name": "paper_w_tires",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_w_tires"
+  }
+ },
+ {
+  "id": "sticker-10354",
+  "name": "Aufkleber | Kegelzone (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10354",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Cone Zone (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_png.png",
+  "original": {
+   "name": "holo_cone_zone",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_cone_zone"
+  }
+ },
+ {
+  "id": "sticker-10355",
+  "name": "Aufkleber | Motorstart (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10355",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Engine Start (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_png.png",
+  "original": {
+   "name": "holo_engine_start",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_engine_start"
+  }
+ },
+ {
+  "id": "sticker-10356",
+  "name": "Aufkleber | Erste Runde (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10356",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | First Lap (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_png.png",
+  "original": {
+   "name": "holo_first_lap",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_first_lap"
+  }
+ },
+ {
+  "id": "sticker-10357",
+  "name": "Aufkleber | Neo-Pittstopp (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10357",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Neo-Hold (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_png.png",
+  "original": {
+   "name": "holo_neo_hold",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_hold"
+  }
+ },
+ {
+  "id": "sticker-10358",
+  "name": "Aufkleber | Neo-Vorstoß (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10358",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Neo-Rush (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_png.png",
+  "original": {
+   "name": "holo_neo_rush",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_rush"
+  }
+ },
+ {
+  "id": "sticker-10359",
+  "name": "Aufkleber | Sicherheit geht vor (Holo)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10359",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Bemerkenswert",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Safety First (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_png.png",
+  "original": {
+   "name": "holo_safety_first",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_safety_first"
+  }
+ },
+ {
+  "id": "sticker-10360",
+  "name": "Aufkleber | Sparmodus (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10360",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Eco Mode (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_png.png",
+  "original": {
+   "name": "foil_eco_mode",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_eco_mode"
+  }
+ },
+ {
+  "id": "sticker-10361",
+  "name": "Aufkleber | Glücksbringer (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10361",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Lucky Charms (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_png.png",
+  "original": {
+   "name": "foil_lucky_charms",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_lucky_charms"
+  }
+ },
+ {
+  "id": "sticker-10363",
+  "name": "Aufkleber | Turbomodus (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10363",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Turbo Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_png.png",
+  "original": {
+   "name": "foil_turbo_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_turbo_peek"
+  }
+ },
+ {
+  "id": "sticker-10364",
+  "name": "Aufkleber | Vorsicht Scharfschütze (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10364",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Sniper Ahead (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_png.png",
+  "original": {
+   "name": "foil_watch_sniper",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_watch_sniper"
+  }
+ },
+ {
+  "id": "sticker-10365",
+  "name": "Aufkleber | Ausgebrannt (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10365",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Burnout (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_png.png",
+  "original": {
+   "name": "lenticular_burnout",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_burnout"
+  }
+ },
+ {
+  "id": "sticker-10366",
+  "name": "Aufkleber | Digitales Armaturenbrett (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10366",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Digital Dashboard (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_png.png",
+  "original": {
+   "name": "lenticular_digital_dashboard",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_digital_dashboard"
+  }
+ },
+ {
+  "id": "sticker-10367",
+  "name": "Aufkleber | Handgerät (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10367",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Handheld (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_png.png",
+  "original": {
+   "name": "lenticular_handheld",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_handheld"
+  }
+ },
+ {
+  "id": "sticker-10368",
+  "name": "Aufkleber | NITRO! (Lentikular)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "10368",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Außerordentlich",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | NITRO! (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_png.png",
+  "original": {
+   "name": "lenticular_nitro",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_nitro"
+  }
+ },
+ {
   "id": "sticker-10369",
   "name": "Aufkleber | Vitality | Köln 2026",
   "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
@@ -426990,8 +428421,8 @@
  },
  {
   "id": "sticker-11174",
-  "name": "Aufkleber | NiKo (Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | NiKo (Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Aufkleber wurde vom professionellen Spieler Nikola Kovač von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11174",
   "rarity": {
    "id": "rarity_rare",
@@ -427038,8 +428469,8 @@
  },
  {
   "id": "sticker-11175",
-  "name": "Aufkleber | NiKo (Foil, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | NiKo (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Glanzaufkleber wurde vom professionellen Spieler Nikola Kovač von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11175",
   "rarity": {
    "id": "rarity_mythical",
@@ -427086,8 +428517,8 @@
  },
  {
   "id": "sticker-11176",
-  "name": "Aufkleber | NiKo (Holo, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This holographic sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | NiKo (Holo, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser holografische Aufkleber wurde vom professionellen Spieler Nikola Kovač von Team Falcons signiert, dem Meister des CS2-Major IEM Köln 2026.",
   "def_index": "11176",
   "rarity": {
    "id": "rarity_legendary",
@@ -427134,8 +428565,8 @@
  },
  {
   "id": "sticker-11177",
-  "name": "Aufkleber | NiKo (Gold, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | NiKo (Gold, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser goldene Aufkleber wurde vom professionellen Spieler Nikola Kovač von Team Falcons signiert, dem Meister des CS2-Major IEM Köln 2026.",
   "def_index": "11177",
   "rarity": {
    "id": "rarity_ancient",
@@ -427182,8 +428613,8 @@
  },
  {
   "id": "sticker-11178",
-  "name": "Aufkleber | kyxsan (Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyxsan (Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Aufkleber wurde vom professionellen Spieler Damjan Stoilkovski von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11178",
   "rarity": {
    "id": "rarity_rare",
@@ -427230,8 +428661,8 @@
  },
  {
   "id": "sticker-11179",
-  "name": "Aufkleber | kyxsan (Foil, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This foil sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyxsan (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser glänzende Aufkleber wurde vom professionellen Spieler Damjan Stoilkovski von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11179",
   "rarity": {
    "id": "rarity_mythical",
@@ -427278,8 +428709,8 @@
  },
  {
   "id": "sticker-11180",
-  "name": "Aufkleber | kyxsan (Holo, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This holographic sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyxsan (Holo, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser holografische Aufkleber wurde vom professionellen Spieler Damjan Stoilkovski von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11180",
   "rarity": {
    "id": "rarity_legendary",
@@ -427326,8 +428757,8 @@
  },
  {
   "id": "sticker-11181",
-  "name": "Aufkleber | kyxsan (Gold, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This gold sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyxsan (Gold, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser goldene Aufkleber wurde vom professionellen Spieler Damjan Stoilkovski von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11181",
   "rarity": {
    "id": "rarity_ancient",
@@ -427374,8 +428805,8 @@
  },
  {
   "id": "sticker-11182",
-  "name": "Aufkleber | m0NESY (Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | m0NESY (Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Aufkleber wurde vom professionellen Spieler Ilia Osipov von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11182",
   "rarity": {
    "id": "rarity_rare",
@@ -427422,8 +428853,8 @@
  },
  {
   "id": "sticker-11183",
-  "name": "Aufkleber | m0NESY (Foil, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This foil sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | m0NESY (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser glänzende Aufkleber wurde vom professionellen Spieler Ilia Osipov von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11183",
   "rarity": {
    "id": "rarity_mythical",
@@ -427470,8 +428901,8 @@
  },
  {
   "id": "sticker-11184",
-  "name": "Aufkleber | m0NESY (Holo, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This holographic sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | m0NESY (Holo, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser holografische Aufkleber wurde vom professionellen Spieler Ilia Osipov von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11184",
   "rarity": {
    "id": "rarity_legendary",
@@ -427518,8 +428949,8 @@
  },
  {
   "id": "sticker-11185",
-  "name": "Aufkleber | m0NESY (Gold, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This gold sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | m0NESY (Gold, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser goldene Aufkleber wurde vom professionellen Spieler Ilia Osipov von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11185",
   "rarity": {
    "id": "rarity_ancient",
@@ -427566,8 +428997,8 @@
  },
  {
   "id": "sticker-11186",
-  "name": "Aufkleber | TeSeS (Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | TeSeS (Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Aufkleber wurde vom professionellen Spieler René Stensig Madsen von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11186",
   "rarity": {
    "id": "rarity_rare",
@@ -427614,8 +429045,8 @@
  },
  {
   "id": "sticker-11187",
-  "name": "Aufkleber | TeSeS (Foil, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This foil sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | TeSeS (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Glanzaufkleber wurde vom professionellen Spieler René Stensig Madsen von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11187",
   "rarity": {
    "id": "rarity_mythical",
@@ -427662,8 +429093,8 @@
  },
  {
   "id": "sticker-11188",
-  "name": "Aufkleber | TeSeS (Holo, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This holographic sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | TeSeS (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser holografische Aufkleber wurde vom professionellen Spieler René Stensig Madsen von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11188",
   "rarity": {
    "id": "rarity_legendary",
@@ -427710,8 +429141,8 @@
  },
  {
   "id": "sticker-11189",
-  "name": "Aufkleber | TeSeS (Gold, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This gold sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | TeSeS (Gold, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser goldene Aufkleber wurde vom professionellen Spieler René Stensig Madsen von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11189",
   "rarity": {
    "id": "rarity_ancient",
@@ -427758,8 +429189,8 @@
  },
  {
   "id": "sticker-11190",
-  "name": "Aufkleber | kyousuke (Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyousuke (Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser Aufkleber wurde vom professionellen Spieler Maksim Lukin von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11190",
   "rarity": {
    "id": "rarity_rare",
@@ -427806,8 +429237,8 @@
  },
  {
   "id": "sticker-11191",
-  "name": "Aufkleber | kyousuke (Foil, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This foil sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyousuke (Glanz, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser glänzende Aufkleber wurde vom professionellen Spieler Maksim Lukin von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11191",
   "rarity": {
    "id": "rarity_mythical",
@@ -427854,8 +429285,8 @@
  },
  {
   "id": "sticker-11192",
-  "name": "Aufkleber | kyousuke (Holo, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This holographic sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyousuke (Holo, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser holografische Aufkleber wurde vom professionellen Spieler Maksim Lukin von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11192",
   "rarity": {
    "id": "rarity_legendary",
@@ -427902,8 +429333,8 @@
  },
  {
   "id": "sticker-11193",
-  "name": "Aufkleber | kyousuke (Gold, Champion) | Cologne 2026",
-  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>This gold sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "name": "Aufkleber | kyousuke (Gold, Meister) | Köln 2026",
+  "description": "<span style='color:#ffd700;'>Dieser Gegenstand feiert das CS2-Major IEM Köln 2026.</span><br/><br/> Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.<br><br>Dieser goldene Aufkleber wurde vom professionellen Spieler Maksim Lukin von Team Falcons signiert, den Meistern des CS2-Major IEM Köln 2026.",
   "def_index": "11193",
   "rarity": {
    "id": "rarity_ancient",
@@ -427949,8 +429380,62 @@
   }
  },
  {
+  "id": "sticker-11194",
+  "name": "Aufkleber | Wir bitten um Geduld",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "11194",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Please Be Patient",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_png.png",
+  "original": {
+   "name": "paper_be_patient",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_be_patient"
+  }
+ },
+ {
+  "id": "sticker-11195",
+  "name": "Aufkleber | Turbo im Herzen (Glanz)",
+  "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
+  "def_index": "11195",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotisch",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Aufkleberkollektion „Autorennen“",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker | Born To Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_png.png",
+  "original": {
+   "name": "foil_born_to_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_born_to_peek"
+  }
+ },
+ {
   "id": "sticker-11196",
-  "name": "Aufkleber | Airhorn",
+  "name": "Aufkleber | Lufthorn",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11196",
   "rarity": {
@@ -427961,7 +429446,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -427977,7 +429462,7 @@
  },
  {
   "id": "sticker-11197",
-  "name": "Aufkleber | Assterisk",
+  "name": "Aufkleber | Arschterisk",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11197",
   "rarity": {
@@ -427988,7 +429473,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428004,7 +429489,7 @@
  },
  {
   "id": "sticker-11198",
-  "name": "Aufkleber | Big Red Rocket",
+  "name": "Aufkleber | Große Rote Rakete",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11198",
   "rarity": {
@@ -428015,7 +429500,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428031,7 +429516,7 @@
  },
  {
   "id": "sticker-11199",
-  "name": "Aufkleber | Boner Snap",
+  "name": "Aufkleber | Knochenbruch",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11199",
   "rarity": {
@@ -428042,7 +429527,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428058,7 +429543,7 @@
  },
  {
   "id": "sticker-11200",
-  "name": "Aufkleber | Censored",
+  "name": "Aufkleber | Zensiert",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11200",
   "rarity": {
@@ -428069,7 +429554,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428085,7 +429570,7 @@
  },
  {
   "id": "sticker-11201",
-  "name": "Aufkleber | Explosives",
+  "name": "Aufkleber | Sprengstoff",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11201",
   "rarity": {
@@ -428096,7 +429581,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428112,7 +429597,7 @@
  },
  {
   "id": "sticker-11202",
-  "name": "Aufkleber | Golf Cart",
+  "name": "Aufkleber | Golfwagen",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11202",
   "rarity": {
@@ -428123,7 +429608,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428139,7 +429624,7 @@
  },
  {
   "id": "sticker-11203",
-  "name": "Aufkleber | Gonna Leave A Mark",
+  "name": "Aufkleber | Das wird Spuren hinterlassen",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11203",
   "rarity": {
@@ -428150,7 +429635,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428166,7 +429651,7 @@
  },
  {
   "id": "sticker-11204",
-  "name": "Aufkleber | Head In Hands",
+  "name": "Aufkleber | Kopf in den Händen",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11204",
   "rarity": {
@@ -428177,7 +429662,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428204,7 +429689,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428231,7 +429716,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428247,7 +429732,7 @@
  },
  {
   "id": "sticker-11207",
-  "name": "Aufkleber | Partyboy",
+  "name": "Aufkleber | Partygänger",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11207",
   "rarity": {
@@ -428258,7 +429743,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428274,7 +429759,7 @@
  },
  {
   "id": "sticker-11208",
-  "name": "Aufkleber | Radiograph",
+  "name": "Aufkleber | Röntgenaufnahme",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11208",
   "rarity": {
@@ -428285,7 +429770,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428301,7 +429786,7 @@
  },
  {
   "id": "sticker-11209",
-  "name": "Aufkleber | Rocket Skates",
+  "name": "Aufkleber | Raketenrollschuhe",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11209",
   "rarity": {
@@ -428312,7 +429797,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428328,7 +429813,7 @@
  },
  {
   "id": "sticker-11210",
-  "name": "Aufkleber | Skull Bunny",
+  "name": "Aufkleber | Totenkopfhäschen",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11210",
   "rarity": {
@@ -428339,7 +429824,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428355,7 +429840,7 @@
  },
  {
   "id": "sticker-11211",
-  "name": "Aufkleber | The Magic Trick",
+  "name": "Aufkleber | Der Zaubertrick",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11211",
   "rarity": {
@@ -428366,7 +429851,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428382,7 +429867,7 @@
  },
  {
   "id": "sticker-11212",
-  "name": "Aufkleber | WARNING",
+  "name": "Aufkleber | WARNUNG",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11212",
   "rarity": {
@@ -428393,7 +429878,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428409,7 +429894,7 @@
  },
  {
   "id": "sticker-11213",
-  "name": "Aufkleber | ZZZAP!",
+  "name": "Aufkleber | ZAPP!",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11213",
   "rarity": {
@@ -428420,7 +429905,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428436,7 +429921,7 @@
  },
  {
   "id": "sticker-11214",
-  "name": "Aufkleber | Airhorn (Glitter)",
+  "name": "Aufkleber | Lufthorn (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11214",
   "rarity": {
@@ -428447,7 +429932,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428463,7 +429948,7 @@
  },
  {
   "id": "sticker-11215",
-  "name": "Aufkleber | Assterisk (Glitter)",
+  "name": "Aufkleber | Arschterisk (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11215",
   "rarity": {
@@ -428474,7 +429959,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428490,7 +429975,7 @@
  },
  {
   "id": "sticker-11216",
-  "name": "Aufkleber | Big Red Rocket (Glitter)",
+  "name": "Aufkleber | Große Rote Rakete (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11216",
   "rarity": {
@@ -428501,7 +429986,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428517,7 +430002,7 @@
  },
  {
   "id": "sticker-11217",
-  "name": "Aufkleber | Head In Hands (Glitter)",
+  "name": "Aufkleber | Kopf in den Händen (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11217",
   "rarity": {
@@ -428528,7 +430013,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428544,7 +430029,7 @@
  },
  {
   "id": "sticker-11218",
-  "name": "Aufkleber | High Five! (Glitter)",
+  "name": "Aufkleber | High Five! (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11218",
   "rarity": {
@@ -428555,7 +430040,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428571,7 +430056,7 @@
  },
  {
   "id": "sticker-11219",
-  "name": "Aufkleber | Skull Bunny (Glitter)",
+  "name": "Aufkleber | Totenkopfhäschen (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11219",
   "rarity": {
@@ -428582,7 +430067,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428598,7 +430083,7 @@
  },
  {
   "id": "sticker-11220",
-  "name": "Aufkleber | The Magic Trick (Glitter)",
+  "name": "Aufkleber | Der Zaubertrick (Glitzer)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11220",
   "rarity": {
@@ -428609,7 +430094,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428625,7 +430110,7 @@
  },
  {
   "id": "sticker-11221",
-  "name": "Aufkleber | Boner Snap (Holo)",
+  "name": "Aufkleber | Knochenbruch (Holo)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11221",
   "rarity": {
@@ -428636,7 +430121,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428663,7 +430148,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428679,7 +430164,7 @@
  },
  {
   "id": "sticker-11223",
-  "name": "Aufkleber | Gonna Leave A Mark (Holo)",
+  "name": "Aufkleber | Das wird Spuren hinterlassen (Holo)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11223",
   "rarity": {
@@ -428690,7 +430175,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428706,7 +430191,7 @@
  },
  {
   "id": "sticker-11224",
-  "name": "Aufkleber | Partyboy (Lenticular)",
+  "name": "Aufkleber | Partygänger (Lentikular)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11224",
   "rarity": {
@@ -428717,7 +430202,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428733,7 +430218,7 @@
  },
  {
   "id": "sticker-11225",
-  "name": "Aufkleber | Radiograph (Holo)",
+  "name": "Aufkleber | Röntgenaufnahme (Holo)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11225",
   "rarity": {
@@ -428744,7 +430229,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428760,7 +430245,7 @@
  },
  {
   "id": "sticker-11226",
-  "name": "Aufkleber | Rocket Skates (Holo)",
+  "name": "Aufkleber | Raketenrollschuhe (Holo)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11226",
   "rarity": {
@@ -428771,7 +430256,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428787,7 +430272,7 @@
  },
  {
   "id": "sticker-11227",
-  "name": "Aufkleber | ZZZAP! (Holo)",
+  "name": "Aufkleber | ZAPP! (Holo)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11227",
   "rarity": {
@@ -428798,7 +430283,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428814,7 +430299,7 @@
  },
  {
   "id": "sticker-11228",
-  "name": "Aufkleber | Assterisk (Foil)",
+  "name": "Aufkleber | Arschterisk (Glanz)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11228",
   "rarity": {
@@ -428825,7 +430310,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428841,7 +430326,7 @@
  },
  {
   "id": "sticker-11229",
-  "name": "Aufkleber | Censored (Foil)",
+  "name": "Aufkleber | Zensiert (Glanz)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11229",
   "rarity": {
@@ -428852,7 +430337,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428868,7 +430353,7 @@
  },
  {
   "id": "sticker-11230",
-  "name": "Aufkleber | Explosives (Foil)",
+  "name": "Aufkleber | Sprengstoff (Glanz)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11230",
   "rarity": {
@@ -428879,7 +430364,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428895,7 +430380,7 @@
  },
  {
   "id": "sticker-11231",
-  "name": "Aufkleber | Radiograph (Foil)",
+  "name": "Aufkleber | Röntgenaufnahme (Glanz)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11231",
   "rarity": {
@@ -428906,7 +430391,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428922,7 +430407,7 @@
  },
  {
   "id": "sticker-11232",
-  "name": "Aufkleber | WARNING (Foil)",
+  "name": "Aufkleber | WARNUNG (Glanz)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11232",
   "rarity": {
@@ -428933,7 +430418,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428949,7 +430434,7 @@
  },
  {
   "id": "sticker-11233",
-  "name": "Aufkleber | Electric Avenue (Lenticular)",
+  "name": "Aufkleber | Electric Avenue (Lentikular)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11233",
   "rarity": {
@@ -428960,7 +430445,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],
@@ -428976,7 +430461,7 @@
  },
  {
   "id": "sticker-11234",
-  "name": "Aufkleber | Poo Cocktail Supreme (Lenticular)",
+  "name": "Aufkleber | Fliegendes Baustellenklo (Lentikular)",
   "description": "Dieser Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
   "def_index": "11234",
   "rarity": {
@@ -428987,7 +430472,7 @@
   "crates": [
    {
     "id": "crate-7041",
-    "name": "Jackass Sticker Capsule",
+    "name": "Aufkleberkapsel „Jackass“",
     "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
    }
   ],

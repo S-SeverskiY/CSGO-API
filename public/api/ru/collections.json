@@ -15849,6 +15849,17 @@
   }
  },
  {
+  "id": "collection-set-arabesque",
+  "name": "Коллекция «Арабеска»",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_arabesque_png.png",
+  "original": {
+   "name": "#CSGO_set_arabesque",
+   "image_inventory": "econ/set_icons/set_arabesque"
+  }
+ },
+ {
   "id": "collection-set-community-36",
   "name": "Коллекция «Генезис»",
   "crates": [
@@ -16826,6 +16837,17 @@
   "original": {
    "name": "#CSGO_set_realism_camo",
    "image_inventory": "econ/set_icons/set_realism_camo"
+  }
+ },
+ {
+  "id": "collection-set-spy-tech",
+  "name": "Коллекция «Шпионаж и технологии»",
+  "crates": [],
+  "contains": [],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_spy_tech_png.png",
+  "original": {
+   "name": "#CSGO_set_spy_tech",
+   "image_inventory": "econ/set_icons/set_spy_tech"
   }
  },
  {
@@ -18508,6 +18530,298 @@
   }
  },
  {
+  "id": "collection-set-auto-racing",
+  "name": "Коллекция наклеек «Автогонки»",
+  "crates": [],
+  "contains": [
+   {
+    "id": "sticker-10343",
+    "name": "Взрывной вихрь",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_png.png"
+   },
+   {
+    "id": "sticker-10350",
+    "name": "Сияние сафари",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_png.png"
+   },
+   {
+    "id": "sticker-10341",
+    "name": "Пламенный порыв",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_png.png"
+   },
+   {
+    "id": "sticker-11194",
+    "name": "Проявите терпение",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_png.png"
+   },
+   {
+    "id": "sticker-10344",
+    "name": "Гидроприводы «Прыг-скок»",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_png.png"
+   },
+   {
+    "id": "sticker-10349",
+    "name": "Лифт-комплект «Беговая подсадка»",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_png.png"
+   },
+   {
+    "id": "sticker-10353",
+    "name": "Премиальные шины «Первенство»",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_png.png"
+   },
+   {
+    "id": "sticker-10348",
+    "name": "Рентген-ралли",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_png.png"
+   },
+   {
+    "id": "sticker-10346",
+    "name": "Спринт сапёра",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_png.png"
+   },
+   {
+    "id": "sticker-10347",
+    "name": "Киллометр",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_png.png"
+   },
+   {
+    "id": "sticker-10345",
+    "name": "Клетчатый кукри",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_png.png"
+   },
+   {
+    "id": "sticker-10342",
+    "name": "Бомба на борту",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_png.png"
+   },
+   {
+    "id": "sticker-10351",
+    "name": "Баха-гонка «Песчаный бархан»",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_png.png"
+   },
+   {
+    "id": "sticker-10354",
+    "name": "Конус в фокусе (голографическая) ",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_png.png"
+   },
+   {
+    "id": "sticker-10356",
+    "name": "Первый круг (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_png.png"
+   },
+   {
+    "id": "sticker-10357",
+    "name": "Нео-оборона (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_png.png"
+   },
+   {
+    "id": "sticker-10358",
+    "name": "Нео-прорыв (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_png.png"
+   },
+   {
+    "id": "sticker-10359",
+    "name": "Техника безопасности (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_png.png"
+   },
+   {
+    "id": "sticker-10355",
+    "name": "Запуск двигателя (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_png.png"
+   },
+   {
+    "id": "sticker-10360",
+    "name": "Эко-режим (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_png.png"
+   },
+   {
+    "id": "sticker-10361",
+    "name": "Брелки на удачу (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_png.png"
+   },
+   {
+    "id": "sticker-11195",
+    "name": "Рождён выскакивать (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_png.png"
+   },
+   {
+    "id": "sticker-10363",
+    "name": "Турбовыпад (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_png.png"
+   },
+   {
+    "id": "sticker-10364",
+    "name": "Впереди снайпер (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_png.png"
+   },
+   {
+    "id": "sticker-10365",
+    "name": "Отжиг резины (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_png.png"
+   },
+   {
+    "id": "sticker-10368",
+    "name": "НИТРО! (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_png.png"
+   },
+   {
+    "id": "sticker-10366",
+    "name": "Цифровая панель (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_png.png"
+   },
+   {
+    "id": "sticker-10367",
+    "name": "Карманная игра (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png",
+  "original": {
+   "name": "#CSGO_set_auto_racing",
+   "image_inventory": "econ/set_icons/set_auto_racing"
+  }
+ },
+ {
   "id": "collection-set-community-2025",
   "name": "Коллекция наклеек от сообщества — 2025",
   "crates": [],
@@ -18807,6 +19121,288 @@
   "original": {
    "name": "#CSGO_set_community_2025",
    "image_inventory": "econ/set_icons/set_community_2025"
+  }
+ },
+ {
+  "id": "collection-set-fruits-veggies",
+  "name": "Коллекция наклеек «Фрукты и овощи»",
+  "crates": [],
+  "contains": [
+   {
+    "id": "sticker-10314",
+    "name": "Спец-банан",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_png.png"
+   },
+   {
+    "id": "sticker-10319",
+    "name": "Произведено в Source",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_png.png"
+   },
+   {
+    "id": "sticker-10315",
+    "name": "Агент Когурчик",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_png.png"
+   },
+   {
+    "id": "sticker-10316",
+    "name": "Коробочный логотип",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_png.png"
+   },
+   {
+    "id": "sticker-10317",
+    "name": "Плакса",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_png.png"
+   },
+   {
+    "id": "sticker-10318",
+    "name": "Свежая стрижка",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_png.png"
+   },
+   {
+    "id": "sticker-10320",
+    "name": "Критикан",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_png.png"
+   },
+   {
+    "id": "sticker-10321",
+    "name": "Лямон",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_png.png"
+   },
+   {
+    "id": "sticker-10322",
+    "name": "Засол",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_png.png"
+   },
+   {
+    "id": "sticker-10323",
+    "name": "Тухлые разговорчики",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_png.png"
+   },
+   {
+    "id": "sticker-10324",
+    "name": "Редис К",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_png.png"
+   },
+   {
+    "id": "sticker-10325",
+    "name": "Потри да понюхай",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_png.png"
+   },
+   {
+    "id": "sticker-10326",
+    "name": "Эйсника (с блёстками)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_png.png"
+   },
+   {
+    "id": "sticker-10327",
+    "name": "А по яблочку (с блёстками)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_png.png"
+   },
+   {
+    "id": "sticker-10328",
+    "name": "Пакет сока (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_png.png"
+   },
+   {
+    "id": "sticker-10329",
+    "name": "Ножевая серия (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_png.png"
+   },
+   {
+    "id": "sticker-10330",
+    "name": "Прямо с лозы (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_png.png"
+   },
+   {
+    "id": "sticker-10331",
+    "name": "Острый перец (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_png.png"
+   },
+   {
+    "id": "sticker-10332",
+    "name": "Контроль качества (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_png.png"
+   },
+   {
+    "id": "sticker-10333",
+    "name": "Ультрафруктовый (голографическая)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_png.png"
+   },
+   {
+    "id": "sticker-10334",
+    "name": "Банан безумия (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_png.png"
+   },
+   {
+    "id": "sticker-10335",
+    "name": "Искусство банана (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_png.png"
+   },
+   {
+    "id": "sticker-10336",
+    "name": "Драконий фрукт (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_png.png"
+   },
+   {
+    "id": "sticker-10337",
+    "name": "Трофей жаворонка (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_png.png"
+   },
+   {
+    "id": "sticker-10338",
+    "name": "Плодовая мушка (металлическая)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_png.png"
+   },
+   {
+    "id": "sticker-10339",
+    "name": "Ананас на пицце (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_png.png"
+   },
+   {
+    "id": "sticker-10340",
+    "name": "Перцовая картечь (лентикулярная)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_png.png"
+   }
+  ],
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png",
+  "original": {
+   "name": "#CSGO_set_fruits_veggies",
+   "image_inventory": "econ/set_icons/set_fruits_veggies"
   }
  },
  {

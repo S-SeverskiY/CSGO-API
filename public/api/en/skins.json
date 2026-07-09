@@ -32844,7 +32844,7 @@
  {
   "id": "skin-6467891391e9",
   "name": "Dual Berettas | Polished Malachite",
-  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic top coat.\\n\\n<i>They command respect, although I can't say the same for you... - Booth, Arms Dealer</i>",
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic topcoat.\\n\\n<i>They command respect, although I can't say the same for you... - Booth, Arms Dealer</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -117361,7 +117361,7 @@
  {
   "id": "skin-f2779230030e",
   "name": "Nova | Bloomstick",
-  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been airbrushed by hand with a cherry blossom motif, then given a high-gloss top coat.",
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been airbrushed by hand with a cherry blossom motif, then given a high-gloss topcoat.",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -120913,7 +120913,7 @@
  {
   "id": "skin-ad97dc533b07",
   "name": "P250 | Contaminant",
-  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. Its maroon top coat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n<i>It's only as bad as it looks</i>",
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. Its maroon topcoat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n<i>It's only as bad as it looks</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,

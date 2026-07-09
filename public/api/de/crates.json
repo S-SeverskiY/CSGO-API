@@ -165620,8 +165620,8 @@
  },
  {
   "id": "crate-7041",
-  "name": "Jackass Sticker Capsule",
-  "description": "This capsule contains a variety of stickers celebrating <i>jackass: best and last</i> and was released in July 2026.",
+  "name": "Aufkleberkapsel „Jackass“",
+  "description": "Diese Kapsel enthält eine Vielzahl von Aufklebern zur Feier der Premiere von <i>Jackass: Einer geht noch</i> und wurde im Juli 2026 veröffentlicht.",
   "def_index": "7041",
   "type": "Sticker Capsule",
   "first_sale_date": "2026-07-03",
@@ -165633,7 +165633,7 @@
   "contains": [
    {
     "id": "sticker-11196",
-    "name": "Airhorn",
+    "name": "Lufthorn",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165643,7 +165643,7 @@
    },
    {
     "id": "sticker-11197",
-    "name": "Assterisk",
+    "name": "Arschterisk",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165653,7 +165653,7 @@
    },
    {
     "id": "sticker-11198",
-    "name": "Big Red Rocket",
+    "name": "Große Rote Rakete",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165663,7 +165663,7 @@
    },
    {
     "id": "sticker-11199",
-    "name": "Boner Snap",
+    "name": "Knochenbruch",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165673,7 +165673,7 @@
    },
    {
     "id": "sticker-11200",
-    "name": "Censored",
+    "name": "Zensiert",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165683,7 +165683,7 @@
    },
    {
     "id": "sticker-11201",
-    "name": "Explosives",
+    "name": "Sprengstoff",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165693,7 +165693,7 @@
    },
    {
     "id": "sticker-11202",
-    "name": "Golf Cart",
+    "name": "Golfwagen",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165703,7 +165703,7 @@
    },
    {
     "id": "sticker-11203",
-    "name": "Gonna Leave A Mark",
+    "name": "Das wird Spuren hinterlassen",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165713,7 +165713,7 @@
    },
    {
     "id": "sticker-11204",
-    "name": "Head In Hands",
+    "name": "Kopf in den Händen",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165743,7 +165743,7 @@
    },
    {
     "id": "sticker-11207",
-    "name": "Partyboy",
+    "name": "Partygänger",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165753,7 +165753,7 @@
    },
    {
     "id": "sticker-11208",
-    "name": "Radiograph",
+    "name": "Röntgenaufnahme",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165763,7 +165763,7 @@
    },
    {
     "id": "sticker-11209",
-    "name": "Rocket Skates",
+    "name": "Raketenrollschuhe",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165773,7 +165773,7 @@
    },
    {
     "id": "sticker-11210",
-    "name": "Skull Bunny",
+    "name": "Totenkopfhäschen",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165783,7 +165783,7 @@
    },
    {
     "id": "sticker-11211",
-    "name": "The Magic Trick",
+    "name": "Der Zaubertrick",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165793,7 +165793,7 @@
    },
    {
     "id": "sticker-11212",
-    "name": "WARNING",
+    "name": "WARNUNG",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165803,7 +165803,7 @@
    },
    {
     "id": "sticker-11213",
-    "name": "ZZZAP!",
+    "name": "ZAPP!",
     "rarity": {
      "id": "rarity_rare",
      "name": "Hohe Qualität",
@@ -165813,7 +165813,7 @@
    },
    {
     "id": "sticker-11214",
-    "name": "Airhorn (Glitter)",
+    "name": "Lufthorn (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165823,7 +165823,7 @@
    },
    {
     "id": "sticker-11215",
-    "name": "Assterisk (Glitter)",
+    "name": "Arschterisk (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165833,7 +165833,7 @@
    },
    {
     "id": "sticker-11216",
-    "name": "Big Red Rocket (Glitter)",
+    "name": "Große Rote Rakete (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165843,7 +165843,7 @@
    },
    {
     "id": "sticker-11217",
-    "name": "Head In Hands (Glitter)",
+    "name": "Kopf in den Händen (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165853,7 +165853,7 @@
    },
    {
     "id": "sticker-11218",
-    "name": "High Five! (Glitter)",
+    "name": "High Five! (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165863,7 +165863,7 @@
    },
    {
     "id": "sticker-11219",
-    "name": "Skull Bunny (Glitter)",
+    "name": "Totenkopfhäschen (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165873,7 +165873,7 @@
    },
    {
     "id": "sticker-11220",
-    "name": "The Magic Trick (Glitter)",
+    "name": "Der Zaubertrick (Glitzer)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165883,7 +165883,7 @@
    },
    {
     "id": "sticker-11221",
-    "name": "Boner Snap (Holo)",
+    "name": "Knochenbruch (Holo)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165903,7 +165903,7 @@
    },
    {
     "id": "sticker-11223",
-    "name": "Gonna Leave A Mark (Holo)",
+    "name": "Das wird Spuren hinterlassen (Holo)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165913,7 +165913,7 @@
    },
    {
     "id": "sticker-11225",
-    "name": "Radiograph (Holo)",
+    "name": "Röntgenaufnahme (Holo)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165923,7 +165923,7 @@
    },
    {
     "id": "sticker-11226",
-    "name": "Rocket Skates (Holo)",
+    "name": "Raketenrollschuhe (Holo)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165933,7 +165933,7 @@
    },
    {
     "id": "sticker-11227",
-    "name": "ZZZAP! (Holo)",
+    "name": "ZAPP! (Holo)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Bemerkenswert",
@@ -165943,7 +165943,7 @@
    },
    {
     "id": "sticker-11228",
-    "name": "Assterisk (Foil)",
+    "name": "Arschterisk (Glanz)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Exotisch",
@@ -165953,7 +165953,7 @@
    },
    {
     "id": "sticker-11229",
-    "name": "Censored (Foil)",
+    "name": "Zensiert (Glanz)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Exotisch",
@@ -165963,7 +165963,7 @@
    },
    {
     "id": "sticker-11230",
-    "name": "Explosives (Foil)",
+    "name": "Sprengstoff (Glanz)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Exotisch",
@@ -165973,7 +165973,7 @@
    },
    {
     "id": "sticker-11231",
-    "name": "Radiograph (Foil)",
+    "name": "Röntgenaufnahme (Glanz)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Exotisch",
@@ -165983,7 +165983,7 @@
    },
    {
     "id": "sticker-11232",
-    "name": "WARNING (Foil)",
+    "name": "WARNUNG (Glanz)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Exotisch",
@@ -165993,7 +165993,7 @@
    },
    {
     "id": "sticker-11233",
-    "name": "Electric Avenue (Lenticular)",
+    "name": "Electric Avenue (Lentikular)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Außerordentlich",
@@ -166003,7 +166003,7 @@
    },
    {
     "id": "sticker-11224",
-    "name": "Partyboy (Lenticular)",
+    "name": "Partygänger (Lentikular)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Außerordentlich",
@@ -166013,7 +166013,7 @@
    },
    {
     "id": "sticker-11234",
-    "name": "Poo Cocktail Supreme (Lenticular)",
+    "name": "Fliegendes Baustellenklo (Lentikular)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Außerordentlich",

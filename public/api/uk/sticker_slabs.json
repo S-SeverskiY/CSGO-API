@@ -390949,6 +390949,1437 @@
   }
  },
  {
+  "id": "sticker_slab-10314",
+  "name": "Слаб | Войовничий банан",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10314",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B'nana Strike",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37_png.png",
+  "original": {
+   "name": "paper_nana_strike",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10315",
+  "name": "Слаб | Агент Когіровський",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10315",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Agent Kucumber",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37_png.png",
+  "original": {
+   "name": "paper_agent_kucumber",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10316",
+  "name": "Слаб | Фруктове лого",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10316",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Box Logo",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_1355_37_png.png",
+  "original": {
+   "name": "paper_box_logo",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_box_logo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10317",
+  "name": "Слаб | Плакса",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10317",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cry Baby",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37_png.png",
+  "original": {
+   "name": "paper_dont_cry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10318",
+  "name": "Слаб | Свіжа стружка",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10318",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fresh Cut",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37_png.png",
+  "original": {
+   "name": "paper_fresh_cut",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10319",
+  "name": "Слаб | Виготовлено в Source",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10319",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Source",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37_png.png",
+  "original": {
+   "name": "paper_from_the_source",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10320",
+  "name": "Слаб | Гнилко",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10320",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Heckler",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_1355_37_png.png",
+  "original": {
+   "name": "paper_heckler",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_heckler_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10321",
+  "name": "Слаб | Лимонка",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10321",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lemin",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_1355_37_png.png",
+  "original": {
+   "name": "paper_lemin",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_lemin_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10322",
+  "name": "Слаб | Малосол",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10322",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Peekle",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_1355_37_png.png",
+  "original": {
+   "name": "paper_peekle",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_peekle_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10323",
+  "name": "Слаб | Штинько",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10323",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pungent Comms",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37_png.png",
+  "original": {
+   "name": "paper_pungent_comms",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10324",
+  "name": "Слаб | Редис К",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10324",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radish K",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_1355_37_png.png",
+  "original": {
+   "name": "paper_radish_k",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_radish_k_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10325",
+  "name": "Слаб | Фруктові пахощі",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10325",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Scratch N' Whiff",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37_png.png",
+  "original": {
+   "name": "paper_scratch_n_whiff",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10326",
+  "name": "Слаб | Вовчі ягідки (сяйниста)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10326",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Aceberry (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37_png.png",
+  "original": {
+   "name": "glitter_aceberry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10327",
+  "name": "Слаб | Молодильне яблуко (сяйниста)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10327",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Apple A Day (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37_png.png",
+  "original": {
+   "name": "glitter_apple_a_day",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10328",
+  "name": "Слаб | Сік (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10328",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Juice Box (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_1355_37_png.png",
+  "original": {
+   "name": "holo_juice_box",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_juice_box_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10329",
+  "name": "Слаб | Різанина (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10329",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Knife Streak (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37_png.png",
+  "original": {
+   "name": "holo_knife_streak",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10330",
+  "name": "Слаб | З лози (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10330",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Vine (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37_png.png",
+  "original": {
+   "name": "holo_from_the_vine",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10331",
+  "name": "Слаб | Крутий перець (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10331",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Hot Pepper (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37_png.png",
+  "original": {
+   "name": "holo_hot_pepper",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10332",
+  "name": "Слаб | Контроль якості (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10332",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Quality Control (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_1355_37_png.png",
+  "original": {
+   "name": "holo_quality_control",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_quality_control_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10333",
+  "name": "Слаб | Солоденький (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10333",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Ultra Fruity (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37_png.png",
+  "original": {
+   "name": "holo_ultra_fruity",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10334",
+  "name": "Слаб | Шалений банан (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10334",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B-A-N-A-N-A-S (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_1355_37_png.png",
+  "original": {
+   "name": "foil_banana_face",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_banana_face_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10335",
+  "name": "Слаб | Бананарт (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10335",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bananart (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_1355_37_png.png",
+  "original": {
+   "name": "foil_modern_art",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_modern_art_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10336",
+  "name": "Слаб | Драконячий фрукт (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10336",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Dragon Fruit (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37_png.png",
+  "original": {
+   "name": "foil_dragon_fruit",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10337",
+  "name": "Слаб | Рання пташка (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10337",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Early Bird (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_1355_37_png.png",
+  "original": {
+   "name": "foil_early_bird",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_early_bird_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10338",
+  "name": "Слаб | Плодова мушка (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10338",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fruit Fly (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37_png.png",
+  "original": {
+   "name": "foil_fruit_fly",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10339",
+  "name": "Слаб | Піца з ананасом (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10339",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pineapple On Pizza (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pineapple_pizza",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10340",
+  "name": "Слаб | Перцевий залп (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10340",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Колекція наліпок «Фрукти та овочі»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pepper Gauge (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pepper_gauge",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10341",
+  "name": "Слаб | Подих полум’я",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10341",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Blaze Breeze",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37_png.png",
+  "original": {
+   "name": "paper_blaze_breeze",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10342",
+  "name": "Слаб | Бомба на борту",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10342",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bomb On Board",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37_png.png",
+  "original": {
+   "name": "paper_bomb_on_board",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10343",
+  "name": "Слаб | Бореальний вибух",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10343",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Boreal Blast",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_1355_37_png.png",
+  "original": {
+   "name": "paper_boreal_blast",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_boreal_blast_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10344",
+  "name": "Слаб | Стрибуча гідравліка",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10344",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bunnyhop Hydraulics",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37_png.png",
+  "original": {
+   "name": "paper_bhop_hydraulics",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10345",
+  "name": "Слаб | Картатий кукрі",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10345",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Checkered Kukri",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_1355_37_png.png",
+  "original": {
+   "name": "paper_racing_flag",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_racing_flag_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10346",
+  "name": "Слаб | Знешкоджувальний забіг",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10346",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Defusal Sprint",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37_png.png",
+  "original": {
+   "name": "paper_defusal_sprint",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10347",
+  "name": "Слаб | Кілл-о-метр",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10347",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Killometer",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_1355_37_png.png",
+  "original": {
+   "name": "paper_killometer",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_killometer_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10348",
+  "name": "Слаб | Клуб перегонів «Рентген»",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10348",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Roentgen Raceclub",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37_png.png",
+  "original": {
+   "name": "paper_roentgen_raceclub",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10349",
+  "name": "Слаб | Ліфт-комплект «Підсадка під час бігу»",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10349",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Run Boost Lift Kits",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_1355_37_png.png",
+  "original": {
+   "name": "paper_run_boost",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_run_boost_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10350",
+  "name": "Слаб | Сліпуче сафарі",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10350",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safari Shine",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_1355_37_png.png",
+  "original": {
+   "name": "paper_safari_shine",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_safari_shine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10351",
+  "name": "Слаб | Заїзд піщаними дюнами Бахи",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10351",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sand Dune Baja Tour",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37_png.png",
+  "original": {
+   "name": "paper_sand_dune_baja_tour",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10353",
+  "name": "Слаб | Високоякісні шини W",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10353",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | W Performance Tires",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_1355_37_png.png",
+  "original": {
+   "name": "paper_w_tires",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_w_tires_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10354",
+  "name": "Слаб | Дорожні роботи (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10354",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cone Zone (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_1355_37_png.png",
+  "original": {
+   "name": "holo_cone_zone",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_cone_zone_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10355",
+  "name": "Слаб | Заводь! (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10355",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Engine Start (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_1355_37_png.png",
+  "original": {
+   "name": "holo_engine_start",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_engine_start_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10356",
+  "name": "Слаб | Перше коло (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10356",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | First Lap (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_1355_37_png.png",
+  "original": {
+   "name": "holo_first_lap",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_first_lap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10357",
+  "name": "Слаб | Нео-холд (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10357",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Hold (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_hold",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_hold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10358",
+  "name": "Слаб | Нео-раш (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10358",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Rush (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_rush",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_rush_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10359",
+  "name": "Слаб | Безпека понад усе (голографічна)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10359",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "цікавий предмет",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safety First (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_1355_37_png.png",
+  "original": {
+   "name": "holo_safety_first",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_safety_first_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10360",
+  "name": "Слаб | Екорежим (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10360",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Eco Mode (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_1355_37_png.png",
+  "original": {
+   "name": "foil_eco_mode",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_eco_mode_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10361",
+  "name": "Слаб | Щасливі брелоки (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10361",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lucky Charms (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_1355_37_png.png",
+  "original": {
+   "name": "foil_lucky_charms",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_lucky_charms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10363",
+  "name": "Слаб | Турборежим (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10363",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Turbo Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_turbo_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_turbo_peek_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10364",
+  "name": "Слаб | Снайпер попереду (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10364",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sniper Ahead (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_1355_37_png.png",
+  "original": {
+   "name": "foil_watch_sniper",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_watch_sniper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10365",
+  "name": "Слаб | Палена гума (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10365",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Burnout (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_1355_37_png.png",
+  "original": {
+   "name": "lenticular_burnout",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_burnout_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10366",
+  "name": "Слаб | Цифрова панель (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10366",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Digital Dashboard (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37_png.png",
+  "original": {
+   "name": "lenticular_digital_dashboard",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10367",
+  "name": "Слаб | Кишенькова іграшка (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10367",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Handheld (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_1355_37_png.png",
+  "original": {
+   "name": "lenticular_handheld",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_handheld_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10368",
+  "name": "Слаб | НІТРО! (оптична)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "10368",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "надзвичайний предмет",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | NITRO! (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_1355_37_png.png",
+  "original": {
+   "name": "lenticular_nitro",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_nitro_1355_37"
+  }
+ },
+ {
   "id": "sticker_slab-10369",
   "name": "Слаб | Vitality | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
@@ -426990,7 +428421,7 @@
  },
  {
   "id": "sticker_slab-11174",
-  "name": "Слаб | NiKo (Champion) | Cologne 2026",
+  "name": "Слаб | NiKo (чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11174",
   "rarity": {
@@ -427038,7 +428469,7 @@
  },
  {
   "id": "sticker_slab-11175",
-  "name": "Слаб | NiKo (Foil, Champion) | Cologne 2026",
+  "name": "Слаб | NiKo (лискуча, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11175",
   "rarity": {
@@ -427086,7 +428517,7 @@
  },
  {
   "id": "sticker_slab-11176",
-  "name": "Слаб | NiKo (Holo, Champion) | Cologne 2026",
+  "name": "Слаб | NiKo (голографічна, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11176",
   "rarity": {
@@ -427134,7 +428565,7 @@
  },
  {
   "id": "sticker_slab-11177",
-  "name": "Слаб | NiKo (Gold, Champion) | Cologne 2026",
+  "name": "Слаб | NiKo (золота, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11177",
   "rarity": {
@@ -427182,7 +428613,7 @@
  },
  {
   "id": "sticker_slab-11178",
-  "name": "Слаб | kyxsan (Champion) | Cologne 2026",
+  "name": "Слаб | kyxsan (чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11178",
   "rarity": {
@@ -427230,7 +428661,7 @@
  },
  {
   "id": "sticker_slab-11179",
-  "name": "Слаб | kyxsan (Foil, Champion) | Cologne 2026",
+  "name": "Слаб | kyxsan (лискуча, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11179",
   "rarity": {
@@ -427278,7 +428709,7 @@
  },
  {
   "id": "sticker_slab-11180",
-  "name": "Слаб | kyxsan (Holo, Champion) | Cologne 2026",
+  "name": "Слаб | kyxsan (голографічна, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11180",
   "rarity": {
@@ -427326,7 +428757,7 @@
  },
  {
   "id": "sticker_slab-11181",
-  "name": "Слаб | kyxsan (Gold, Champion) | Cologne 2026",
+  "name": "Слаб | kyxsan (золота, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11181",
   "rarity": {
@@ -427374,7 +428805,7 @@
  },
  {
   "id": "sticker_slab-11182",
-  "name": "Слаб | m0NESY (Champion) | Cologne 2026",
+  "name": "Слаб | m0NESY (чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11182",
   "rarity": {
@@ -427422,7 +428853,7 @@
  },
  {
   "id": "sticker_slab-11183",
-  "name": "Слаб | m0NESY (Foil, Champion) | Cologne 2026",
+  "name": "Слаб | m0NESY (лискуча, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11183",
   "rarity": {
@@ -427470,7 +428901,7 @@
  },
  {
   "id": "sticker_slab-11184",
-  "name": "Слаб | m0NESY (Holo, Champion) | Cologne 2026",
+  "name": "Слаб | m0NESY (голографічна, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11184",
   "rarity": {
@@ -427518,7 +428949,7 @@
  },
  {
   "id": "sticker_slab-11185",
-  "name": "Слаб | m0NESY (Gold, Champion) | Cologne 2026",
+  "name": "Слаб | m0NESY (золота, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11185",
   "rarity": {
@@ -427566,7 +428997,7 @@
  },
  {
   "id": "sticker_slab-11186",
-  "name": "Слаб | TeSeS (Champion) | Cologne 2026",
+  "name": "Слаб | TeSeS (чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11186",
   "rarity": {
@@ -427614,7 +429045,7 @@
  },
  {
   "id": "sticker_slab-11187",
-  "name": "Слаб | TeSeS (Foil, Champion) | Cologne 2026",
+  "name": "Слаб | TeSeS (лискуча, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11187",
   "rarity": {
@@ -427662,7 +429093,7 @@
  },
  {
   "id": "sticker_slab-11188",
-  "name": "Слаб | TeSeS (Holo, Champion) | Cologne 2026",
+  "name": "Слаб | TeSeS (голографічна, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11188",
   "rarity": {
@@ -427710,7 +429141,7 @@
  },
  {
   "id": "sticker_slab-11189",
-  "name": "Слаб | TeSeS (Gold, Champion) | Cologne 2026",
+  "name": "Слаб | TeSeS (золота, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11189",
   "rarity": {
@@ -427758,7 +429189,7 @@
  },
  {
   "id": "sticker_slab-11190",
-  "name": "Слаб | kyousuke (Champion) | Cologne 2026",
+  "name": "Слаб | kyousuke (чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11190",
   "rarity": {
@@ -427806,7 +429237,7 @@
  },
  {
   "id": "sticker_slab-11191",
-  "name": "Слаб | kyousuke (Foil, Champion) | Cologne 2026",
+  "name": "Слаб | kyousuke (лискуча, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11191",
   "rarity": {
@@ -427854,7 +429285,7 @@
  },
  {
   "id": "sticker_slab-11192",
-  "name": "Слаб | kyousuke (Holo, Champion) | Cologne 2026",
+  "name": "Слаб | kyousuke (голографічна, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11192",
   "rarity": {
@@ -427902,7 +429333,7 @@
  },
  {
   "id": "sticker_slab-11193",
-  "name": "Слаб | kyousuke (Gold, Champion) | Cologne 2026",
+  "name": "Слаб | kyousuke (золота, чемпіон) | Кельн 2026",
   "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
   "def_index": "11193",
   "rarity": {
@@ -427946,6 +429377,60 @@
   "original": {
    "name": "cologne2026_signature_kyousuke_gold_champion",
    "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11194",
+  "name": "Слаб | Трішки терпіння",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "11194",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "дуже рідкісний предмет",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Please Be Patient",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_1355_37_png.png",
+  "original": {
+   "name": "paper_be_patient",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_be_patient_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11195",
+  "name": "Слаб | Турбо в душі (лискуча)",
+  "description": "Наліпка безпечно запечатана в слабі. Ви можете в будь-який час повернути її до інвентарю, розбивши слаб.<br><br>Цей брелок можна причепити до будь-якої зброї, якою ви володієте. Кожен прикріплений брелок можна зняти за допомогою відчіплювача брелоків. Відчеплені брелоки повернуться до вашого інвентарю.",
+  "def_index": "11195",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "екзотичний предмет",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Колекція наліпок «Автомобільні перегони»",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Born To Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_born_to_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_born_to_peek_1355_37"
   }
  },
  {
