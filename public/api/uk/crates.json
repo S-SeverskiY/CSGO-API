@@ -165620,8 +165620,8 @@
  },
  {
   "id": "crate-7041",
-  "name": "Jackass Sticker Capsule",
-  "description": "This capsule contains a variety of stickers celebrating <i>jackass: best and last</i> and was released in July 2026.",
+  "name": "Капсула з наліпками «Диваки»",
+  "description": "Ця капсула містить різні наліпки, що присвячені виходу фільму <i>Jackass: best and last</i>. Випущена в липні 2026 року.",
   "def_index": "7041",
   "type": "Sticker Capsule",
   "first_sale_date": "2026-07-03",
@@ -165633,7 +165633,7 @@
   "contains": [
    {
     "id": "sticker-11196",
-    "name": "Airhorn",
+    "name": "Клаксон",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165643,7 +165643,7 @@
    },
    {
     "id": "sticker-11197",
-    "name": "Assterisk",
+    "name": "П’ята точка*",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165653,7 +165653,7 @@
    },
    {
     "id": "sticker-11198",
-    "name": "Big Red Rocket",
+    "name": "Велика червона ракета",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165663,7 +165663,7 @@
    },
    {
     "id": "sticker-11199",
-    "name": "Boner Snap",
+    "name": "Кістколам",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165673,7 +165673,7 @@
    },
    {
     "id": "sticker-11200",
-    "name": "Censored",
+    "name": "Цензура",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165683,7 +165683,7 @@
    },
    {
     "id": "sticker-11201",
-    "name": "Explosives",
+    "name": "Вибухові речовини",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165693,7 +165693,7 @@
    },
    {
     "id": "sticker-11202",
-    "name": "Golf Cart",
+    "name": "Гольф-кар",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165703,7 +165703,7 @@
    },
    {
     "id": "sticker-11203",
-    "name": "Gonna Leave A Mark",
+    "name": "Буде шрам",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165713,7 +165713,7 @@
    },
    {
     "id": "sticker-11204",
-    "name": "Head In Hands",
+    "name": "Голова в руках",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165723,7 +165723,7 @@
    },
    {
     "id": "sticker-11205",
-    "name": "High Five!",
+    "name": "Дай п’ять!",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165733,7 +165733,7 @@
    },
    {
     "id": "sticker-11206",
-    "name": "Jackass",
+    "name": "Диваки",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165743,7 +165743,7 @@
    },
    {
     "id": "sticker-11207",
-    "name": "Partyboy",
+    "name": "Любитель вечірок",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165753,7 +165753,7 @@
    },
    {
     "id": "sticker-11208",
-    "name": "Radiograph",
+    "name": "Рентген",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165763,7 +165763,7 @@
    },
    {
     "id": "sticker-11209",
-    "name": "Rocket Skates",
+    "name": "Ракетні ролики",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165773,7 +165773,7 @@
    },
    {
     "id": "sticker-11210",
-    "name": "Skull Bunny",
+    "name": "Вухатий череп",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165783,7 +165783,7 @@
    },
    {
     "id": "sticker-11211",
-    "name": "The Magic Trick",
+    "name": "Магічний трюк",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165793,7 +165793,7 @@
    },
    {
     "id": "sticker-11212",
-    "name": "WARNING",
+    "name": "УВАГА",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165803,7 +165803,7 @@
    },
    {
     "id": "sticker-11213",
-    "name": "ZZZAP!",
+    "name": "ХЛЬОСЬ!",
     "rarity": {
      "id": "rarity_rare",
      "name": "дуже рідкісний предмет",
@@ -165813,7 +165813,7 @@
    },
    {
     "id": "sticker-11214",
-    "name": "Airhorn (Glitter)",
+    "name": "Клаксон (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165823,7 +165823,7 @@
    },
    {
     "id": "sticker-11215",
-    "name": "Assterisk (Glitter)",
+    "name": "П’ята точка* (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165833,7 +165833,7 @@
    },
    {
     "id": "sticker-11216",
-    "name": "Big Red Rocket (Glitter)",
+    "name": "Велика червона ракета (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165843,7 +165843,7 @@
    },
    {
     "id": "sticker-11217",
-    "name": "Head In Hands (Glitter)",
+    "name": "Голова в руках (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165853,7 +165853,7 @@
    },
    {
     "id": "sticker-11218",
-    "name": "High Five! (Glitter)",
+    "name": "Дай п’ять! (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165863,7 +165863,7 @@
    },
    {
     "id": "sticker-11219",
-    "name": "Skull Bunny (Glitter)",
+    "name": "Вухатий череп (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165873,7 +165873,7 @@
    },
    {
     "id": "sticker-11220",
-    "name": "The Magic Trick (Glitter)",
+    "name": "Магічний трюк (сяйниста)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165883,7 +165883,7 @@
    },
    {
     "id": "sticker-11221",
-    "name": "Boner Snap (Holo)",
+    "name": "Кістколам (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165893,7 +165893,7 @@
    },
    {
     "id": "sticker-11222",
-    "name": "Jackass (Holo)",
+    "name": "Диваки (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165903,7 +165903,7 @@
    },
    {
     "id": "sticker-11223",
-    "name": "Gonna Leave A Mark (Holo)",
+    "name": "Буде шрам (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165913,7 +165913,7 @@
    },
    {
     "id": "sticker-11225",
-    "name": "Radiograph (Holo)",
+    "name": "Рентген (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165923,7 +165923,7 @@
    },
    {
     "id": "sticker-11226",
-    "name": "Rocket Skates (Holo)",
+    "name": "Ракетні ролики (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165933,7 +165933,7 @@
    },
    {
     "id": "sticker-11227",
-    "name": "ZZZAP! (Holo)",
+    "name": "ХЛЬОСЬ! (голографічна)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "цікавий предмет",
@@ -165943,7 +165943,7 @@
    },
    {
     "id": "sticker-11228",
-    "name": "Assterisk (Foil)",
+    "name": "П’ята точка* (лискуча)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "екзотичний предмет",
@@ -165953,7 +165953,7 @@
    },
    {
     "id": "sticker-11229",
-    "name": "Censored (Foil)",
+    "name": "Цензура (лискуча)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "екзотичний предмет",
@@ -165963,7 +165963,7 @@
    },
    {
     "id": "sticker-11230",
-    "name": "Explosives (Foil)",
+    "name": "Вибухові речовини (лискуча)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "екзотичний предмет",
@@ -165973,7 +165973,7 @@
    },
    {
     "id": "sticker-11231",
-    "name": "Radiograph (Foil)",
+    "name": "Рентген (лискуча)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "екзотичний предмет",
@@ -165983,7 +165983,7 @@
    },
    {
     "id": "sticker-11232",
-    "name": "WARNING (Foil)",
+    "name": "УВАГА (лискуча)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "екзотичний предмет",
@@ -165993,7 +165993,7 @@
    },
    {
     "id": "sticker-11233",
-    "name": "Electric Avenue (Lenticular)",
+    "name": "Шок-авеню (оптична)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "надзвичайний предмет",
@@ -166003,7 +166003,7 @@
    },
    {
     "id": "sticker-11224",
-    "name": "Partyboy (Lenticular)",
+    "name": "Любитель вечірок (оптична)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "надзвичайний предмет",
@@ -166013,7 +166013,7 @@
    },
    {
     "id": "sticker-11234",
-    "name": "Poo Cocktail Supreme (Lenticular)",
+    "name": "Коричневий каловий коктейль (оптична)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "надзвичайний предмет",

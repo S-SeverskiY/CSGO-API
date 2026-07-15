@@ -165620,8 +165620,8 @@
  },
  {
   "id": "crate-7041",
-  "name": "Jackass Sticker Capsule",
-  "description": "This capsule contains a variety of stickers celebrating <i>jackass: best and last</i> and was released in July 2026.",
+  "name": "Капсула с наклейками «Чудаки»",
+  "description": "В этой капсуле содержатся разнообразные наклейки, посвящённые фильму <i>«Чудаки. Лучшее и последнее»</i>. Она была выпущена в июле 2026 года.",
   "def_index": "7041",
   "type": "Sticker Capsule",
   "first_sale_date": "2026-07-03",
@@ -165633,7 +165633,7 @@
   "contains": [
    {
     "id": "sticker-11196",
-    "name": "Airhorn",
+    "name": "Гудок",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165643,7 +165643,7 @@
    },
    {
     "id": "sticker-11197",
-    "name": "Assterisk",
+    "name": "Поп-звёздочка",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165653,7 +165653,7 @@
    },
    {
     "id": "sticker-11198",
-    "name": "Big Red Rocket",
+    "name": "Большая красная ракета",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165663,7 +165663,7 @@
    },
    {
     "id": "sticker-11199",
-    "name": "Boner Snap",
+    "name": "Кайфолом",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165673,7 +165673,7 @@
    },
    {
     "id": "sticker-11200",
-    "name": "Censored",
+    "name": "Цензура",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165683,7 +165683,7 @@
    },
    {
     "id": "sticker-11201",
-    "name": "Explosives",
+    "name": "Взрывоопасно",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165693,7 +165693,7 @@
    },
    {
     "id": "sticker-11202",
-    "name": "Golf Cart",
+    "name": "Гольф-кар",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165703,7 +165703,7 @@
    },
    {
     "id": "sticker-11203",
-    "name": "Gonna Leave A Mark",
+    "name": "Без следа не обойдётся",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165713,7 +165713,7 @@
    },
    {
     "id": "sticker-11204",
-    "name": "Head In Hands",
+    "name": "Без башни",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165723,7 +165723,7 @@
    },
    {
     "id": "sticker-11205",
-    "name": "High Five!",
+    "name": "Держи пять!",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165733,7 +165733,7 @@
    },
    {
     "id": "sticker-11206",
-    "name": "Jackass",
+    "name": "Чудак",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165743,7 +165743,7 @@
    },
    {
     "id": "sticker-11207",
-    "name": "Partyboy",
+    "name": "Тусовщик",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165753,7 +165753,7 @@
    },
    {
     "id": "sticker-11208",
-    "name": "Radiograph",
+    "name": "Радиограф",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165763,7 +165763,7 @@
    },
    {
     "id": "sticker-11209",
-    "name": "Rocket Skates",
+    "name": "Ракетные коньки",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165773,7 +165773,7 @@
    },
    {
     "id": "sticker-11210",
-    "name": "Skull Bunny",
+    "name": "Череп-ушки",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165783,7 +165783,7 @@
    },
    {
     "id": "sticker-11211",
-    "name": "The Magic Trick",
+    "name": "Фокус",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165793,7 +165793,7 @@
    },
    {
     "id": "sticker-11212",
-    "name": "WARNING",
+    "name": "ПРЕДУПРЕЖДЕНИЕ",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165803,7 +165803,7 @@
    },
    {
     "id": "sticker-11213",
-    "name": "ZZZAP!",
+    "name": "РАЗРЯД!",
     "rarity": {
      "id": "rarity_rare",
      "name": "высшего класса",
@@ -165813,7 +165813,7 @@
    },
    {
     "id": "sticker-11214",
-    "name": "Airhorn (Glitter)",
+    "name": "Гудок (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165823,7 +165823,7 @@
    },
    {
     "id": "sticker-11215",
-    "name": "Assterisk (Glitter)",
+    "name": "Поп-звёздочка (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165833,7 +165833,7 @@
    },
    {
     "id": "sticker-11216",
-    "name": "Big Red Rocket (Glitter)",
+    "name": "Большая красная ракета (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165843,7 +165843,7 @@
    },
    {
     "id": "sticker-11217",
-    "name": "Head In Hands (Glitter)",
+    "name": "Без башни (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165853,7 +165853,7 @@
    },
    {
     "id": "sticker-11218",
-    "name": "High Five! (Glitter)",
+    "name": "Держи пять! (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165863,7 +165863,7 @@
    },
    {
     "id": "sticker-11219",
-    "name": "Skull Bunny (Glitter)",
+    "name": "Череп-ушки (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165873,7 +165873,7 @@
    },
    {
     "id": "sticker-11220",
-    "name": "The Magic Trick (Glitter)",
+    "name": "Фокус (с блёстками)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165883,7 +165883,7 @@
    },
    {
     "id": "sticker-11221",
-    "name": "Boner Snap (Holo)",
+    "name": "Кайфолом (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165893,7 +165893,7 @@
    },
    {
     "id": "sticker-11222",
-    "name": "Jackass (Holo)",
+    "name": "Чудак (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165903,7 +165903,7 @@
    },
    {
     "id": "sticker-11223",
-    "name": "Gonna Leave A Mark (Holo)",
+    "name": "Без следа не обойдётся (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165913,7 +165913,7 @@
    },
    {
     "id": "sticker-11225",
-    "name": "Radiograph (Holo)",
+    "name": "Радиограф (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165923,7 +165923,7 @@
    },
    {
     "id": "sticker-11226",
-    "name": "Rocket Skates (Holo)",
+    "name": "Ракетные коньки (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165933,7 +165933,7 @@
    },
    {
     "id": "sticker-11227",
-    "name": "ZZZAP! (Holo)",
+    "name": "РАЗРЯД! (голографическая)",
     "rarity": {
      "id": "rarity_mythical",
      "name": "примечательного типа",
@@ -165943,7 +165943,7 @@
    },
    {
     "id": "sticker-11228",
-    "name": "Assterisk (Foil)",
+    "name": "Поп-звёздочка (металлическая)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "экзотичного вида",
@@ -165953,7 +165953,7 @@
    },
    {
     "id": "sticker-11229",
-    "name": "Censored (Foil)",
+    "name": "Цензура (металлическая)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "экзотичного вида",
@@ -165963,7 +165963,7 @@
    },
    {
     "id": "sticker-11230",
-    "name": "Explosives (Foil)",
+    "name": "Взрывоопасно (металлическая)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "экзотичного вида",
@@ -165973,7 +165973,7 @@
    },
    {
     "id": "sticker-11231",
-    "name": "Radiograph (Foil)",
+    "name": "Радиограф (металлическая)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "экзотичного вида",
@@ -165983,7 +165983,7 @@
    },
    {
     "id": "sticker-11232",
-    "name": "WARNING (Foil)",
+    "name": "ПРЕДУПРЕЖДЕНИЕ (металлическая)",
     "rarity": {
      "id": "rarity_legendary",
      "name": "экзотичного вида",
@@ -165993,7 +165993,7 @@
    },
    {
     "id": "sticker-11233",
-    "name": "Electric Avenue (Lenticular)",
+    "name": "Электрик-авеню (лентикулярная)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "экстраординарного типа",
@@ -166003,7 +166003,7 @@
    },
    {
     "id": "sticker-11224",
-    "name": "Partyboy (Lenticular)",
+    "name": "Тусовщик (лентикулярная)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "экстраординарного типа",
@@ -166013,7 +166013,7 @@
    },
    {
     "id": "sticker-11234",
-    "name": "Poo Cocktail Supreme (Lenticular)",
+    "name": "Кака-коктейль экстрим (лентикулярная)",
     "rarity": {
      "id": "rarity_ancient",
      "name": "экстраординарного типа",
