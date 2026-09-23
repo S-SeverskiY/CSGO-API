@@ -3400,5 +3400,41 @@
    "name": "shockone_01",
    "image_inventory": "econ/music_kits/shockone_01"
   }
+ },
+ {
+  "id": "music_kit-104",
+  "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "description": "Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "def_index": "104",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/starjunk95_01_png.png",
+  "original": {
+   "name": "starjunk95_01",
+   "image_inventory": "econ/music_kits/starjunk95_01"
+  }
+ },
+ {
+  "id": "music_kit-104_st",
+  "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "description": "<span style='color:#99ccff;'>Dieser Gegenstand verfügt über StatTrak™-Technologie, der bestimmte Statistiken festhält, wenn er von ihrem Besitzer ausgerüstet wird.</span><br/><br/><span style='color:#cf6a32;'>Dieser Gegenstand speichert Auszeichnungen als „Beste Spieler“ im offiziellen Wettkampf.</span><br/><br/>Dieses Musikkit ersetzt die gesamte Musik im Spiel und kann mit Ihren Mitspielern geteilt werden. Es enthält außerdem eine „Bester Spieler“-Hymne, die für alle Spieler abgespielt wird, wenn Sie zum besten Spieler der Runde ausgezeichnet werden.\\n\\nDas Musikkit ersetzt die folgende Musik:\\n– Hauptmenü\\n– Rundenstart und -ende\\n– Kartenziele\\n– Zehn-Sekunden-Warnung\\n– Verfolgerkamera<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "def_index": "104",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/starjunk95_01_png.png",
+  "original": {
+   "name": "starjunk95_01",
+   "image_inventory": "econ/music_kits/starjunk95_01"
+  }
  }
 ]
