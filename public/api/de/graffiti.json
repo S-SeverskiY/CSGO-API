@@ -39999,5 +39999,599 @@
    "name": "cologne2026_team_iem_graffiti",
    "image_inventory": "econ/stickers/cologne2026/iem_graffiti"
   }
+ },
+ {
+  "id": "graffiti-11946",
+  "name": "Versiegeltes Graffito | MOUZ | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11946",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mouz_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mouz_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mouz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11947",
+  "name": "Versiegeltes Graffito | Vitality | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11947",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/vita_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_vita_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/vita_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11948",
+  "name": "Versiegeltes Graffito | FURIA | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11948",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/furi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_furi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/furi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11949",
+  "name": "Versiegeltes Graffito | Aurora | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11949",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/aura_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_aura_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/aura_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11950",
+  "name": "Versiegeltes Graffito | Team Spirit | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11950",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/spir_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_spir_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/spir_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11951",
+  "name": "Versiegeltes Graffito | BB Team | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11951",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/bbt_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_bbt_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/bbt_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11952",
+  "name": "Versiegeltes Graffito | Falcons | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11952",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fal_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fal_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fal_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11953",
+  "name": "Versiegeltes Graffito | FUT | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11953",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fut_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fut_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fut_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11954",
+  "name": "Versiegeltes Graffito | Legacy | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11954",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/lgcy_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_lgcy_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/lgcy_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11955",
+  "name": "Versiegeltes Graffito | Nemiga | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11955",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nemi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nemi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nemi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11956",
+  "name": "Versiegeltes Graffito | G2 Esports | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11956",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/g2_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_g2_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/g2_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11957",
+  "name": "Versiegeltes Graffito | The One | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11957",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/one_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_one_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/one_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11958",
+  "name": "Versiegeltes Graffito | Natus Vincere | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11958",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/navi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_navi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/navi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11959",
+  "name": "Versiegeltes Graffito | Astralis | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11959",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/astr_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_astr_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/astr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11960",
+  "name": "Versiegeltes Graffito | Ninjas in Pyjamas | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11960",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nip_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nip_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nip_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11961",
+  "name": "Versiegeltes Graffito | The MongolZ | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11961",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mngz_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mngz_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mngz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11962",
+  "name": "Versiegeltes Graffito | PVISION | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11962",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/pvis_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_pvis_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/pvis_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11963",
+  "name": "Versiegeltes Graffito | HEROIC | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11963",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/hero_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_hero_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/hero_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11964",
+  "name": "Versiegeltes Graffito | MIBR | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11964",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mibr_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mibr_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mibr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11965",
+  "name": "Versiegeltes Graffito | FaZe Clan | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11965",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/faze_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_faze_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/faze_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11966",
+  "name": "Versiegeltes Graffito | Team Liquid | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11966",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/liq_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_liq_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/liq_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11967",
+  "name": "Versiegeltes Graffito | Eternal Fire | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11967",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/eter_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_eter_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/eter_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11968",
+  "name": "Versiegeltes Graffito | 100 Thieves | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11968",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/thv_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_thv_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/thv_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11969",
+  "name": "Versiegeltes Graffito | 9z Team | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11969",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nine_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nine_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nine_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11970",
+  "name": "Versiegeltes Graffito | M80 | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11970",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/m80_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_m80_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/m80_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11971",
+  "name": "Versiegeltes Graffito | DENDELE | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11971",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/dend_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_dend_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/dend_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11972",
+  "name": "Versiegeltes Graffito | Imperial Esports | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11972",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/imp_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_imp_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/imp_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11973",
+  "name": "Versiegeltes Graffito | Wildcard | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11973",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/wcrd_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_wcrd_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/wcrd_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11974",
+  "name": "Versiegeltes Graffito | GOSH | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11974",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/gosh_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_gosh_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/gosh_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11975",
+  "name": "Versiegeltes Graffito | FlyQuest | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11975",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fq_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fq_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fq_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11976",
+  "name": "Versiegeltes Graffito | Chinggis Warriors | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11976",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/chin_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_chin_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/chin_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11977",
+  "name": "Versiegeltes Graffito | Lynn Vision | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11977",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/lynn_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_lynn_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/lynn_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11978",
+  "name": "Versiegeltes Graffito | PGL | Singapur 2026",
+  "description": "Dies ist das versiegelte Gefäß eines Graffitimusters. Wenn dieses Graffitimuster entsiegelt wird, erhalten Sie genug Aufladungen, um das Graffitimuster <b>50</b>-mal in der Spielwelt zu sprühen.",
+  "def_index": "11978",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Hohe Qualität",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/pgl_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_pgl_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/pgl_graffiti"
+  }
  }
 ]

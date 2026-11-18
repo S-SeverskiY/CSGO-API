@@ -15467,12 +15467,12 @@
   "contains_rare": [],
   "market_hash_name": "Cologne 2026 Sticker Capsule",
   "rental": false,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
   "model_player": null,
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
-   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+   "image_inventory": "econ/tournaments/major_credits"
   }
  },
  {
@@ -163310,12 +163310,12 @@
   "contains_rare": [],
   "market_hash_name": "Cologne 2026 Sticker Capsule",
   "rental": false,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
   "model_player": null,
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
-   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+   "image_inventory": "econ/tournaments/major_credits"
   }
  },
  {
@@ -163334,12 +163334,12 @@
   "contains_rare": [],
   "market_hash_name": "Cologne 2026 Team Sticker Capsule",
   "rental": false,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
   "model_player": null,
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_orgs",
-   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+   "image_inventory": "econ/tournaments/major_credits"
   }
  },
  {
@@ -163358,12 +163358,12 @@
   "contains_rare": [],
   "market_hash_name": "Cologne 2026 Autograph Capsule",
   "rental": false,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
   "model_player": null,
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2026_group_players",
-   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+   "image_inventory": "econ/tournaments/major_credits"
   }
  },
  {
@@ -163382,12 +163382,108 @@
   "contains_rare": [],
   "market_hash_name": "Cologne 2026 Sticker Capsule",
   "rental": false,
-  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
   "model_player": null,
   "loot_list": null,
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
-   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+   "image_inventory": "econ/tournaments/major_credits"
+  }
+ },
+ {
+  "id": "crate-5416",
+  "name": "Капсула с наклейками PGL Major Singapore 2026",
+  "description": null,
+  "def_index": "5416",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [],
+  "contains_rare": [],
+  "market_hash_name": "Singapore 2026 Sticker Capsule",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_sticker_pack_singapore2026_all",
+   "image_inventory": "econ/tournaments/major_credits"
+  }
+ },
+ {
+  "id": "crate-5417",
+  "name": "Капсула с наклейками команд PGL Major Singapore 2026",
+  "description": null,
+  "def_index": "5417",
+  "type": "Sticker Capsule",
+  "first_sale_date": "2026-11-11",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [],
+  "contains_rare": [],
+  "market_hash_name": "Singapore 2026 Team Sticker Capsule",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_sticker_pack_singapore2026_orgs",
+   "image_inventory": "econ/tournaments/major_credits"
+  }
+ },
+ {
+  "id": "crate-5418",
+  "name": "Капсула с автографами на PGL Major Singapore 2026",
+  "description": null,
+  "def_index": "5418",
+  "type": "Autograph Capsule",
+  "first_sale_date": "2026-11-11",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [],
+  "contains_rare": [],
+  "market_hash_name": "Singapore 2026 Autograph Capsule",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_signature_pack_singapore2026_group_players",
+   "image_inventory": "econ/tournaments/major_credits"
+  }
+ },
+ {
+  "id": "crate-5423",
+  "name": "Капсула с наклейками PGL Major Singapore 2026",
+  "description": null,
+  "def_index": "5423",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [],
+  "contains_rare": [],
+  "market_hash_name": "Singapore 2026 Sticker Capsule",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/major_credits_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_sticker_pack_singapore2026_all",
+   "image_inventory": "econ/tournaments/major_credits"
   }
  },
  {
